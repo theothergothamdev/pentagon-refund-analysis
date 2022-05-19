@@ -24,6 +24,10 @@ function findDuplicates(entries) {
   return duplicates;
 }
 
+function findTotalRefundsIssued(entries) {
+  return entries.reduce((prev, curr) => curr.refundTotal + prev, 0);
+}
+
 function findUniqueWalletCount(entries) {
   const uniqueWallets = new Set(entries.map(entry => entry.walletAddress));
   return uniqueWallets.size;
@@ -78,6 +82,7 @@ function parseLogs(logs) {
     }
   }
 
+  summary.totalRefundsIssued = findTotalRefundsIssued(summary.refunded);
   summary.totalWalletsNotRefunded = findUniqueWalletCount(summary.notRefunded);
   summary.totalWalletsRefunded = findUniqueWalletCount(summary.refunded);
   summary.totalWallets = summary.totalWalletsNotRefunded + summary.totalWalletsRefunded;

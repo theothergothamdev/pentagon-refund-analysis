@@ -28,6 +28,8 @@ function App() {
   return (
     <Container sx={{ p: 5 }}>
       <Alert severity="info">
+        <div>Total refund issued: {data.totalRefundsIssued.toLocaleString()} MATIC</div>
+        <div>Total refund issued (0.6434 USD:MATIC): ${(data.totalRefundsIssued * 0.6434).toLocaleString()}</div>
         <div>Total wallets: {data.totalWallets}</div>
         <div>Total wallets refunded: {data.totalWalletsRefunded}</div>
         <div>Total wallets not refunded: {data.totalWalletsNotRefunded}</div>
@@ -61,12 +63,12 @@ function App() {
                 <TableCell component="th" scope="row">
                   <a href={`https://polygonscan.com/address/${row.walletAddress}`}>{row.walletAddress}</a>
                 </TableCell>
-                <TableCell align="right">{row.refundTotal}</TableCell>
                 <TableCell align="right">
                   {data.duplicates.indexOf(row.walletAddress) > -1 ? (
                     <Chip color="error" size="small" icon={<ReportIcon />} label="Duplicate" />
                   ) : undefined}
                 </TableCell>
+                <TableCell align="right">{row.refundTotal}</TableCell>
               </TableRow>
             ))}
           </TableBody>
