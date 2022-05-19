@@ -54,6 +54,7 @@ function App() {
             <TableRow>
               <TableCell>Wallet Address</TableCell>
               <TableCell align="right">Refund Total (MATIC)</TableCell>
+              <TableCell align="right">Refund Total (USD)</TableCell>
               <TableCell align="right">Refund Portion (%)</TableCell>
               <TableCell align="right">Duplicate?</TableCell>
             </TableRow>
@@ -64,7 +65,8 @@ function App() {
                 <TableCell component="th" scope="row">
                   <a href={`https://polygonscan.com/address/${row.walletAddress}`}>{row.walletAddress}</a>
                 </TableCell>
-                <TableCell align="right">{row.refundTotal}</TableCell>
+                <TableCell align="right">{row.refundTotal.toLocaleString()}</TableCell>
+                <TableCell align="right">${(row.refundTotal * 0.6434).toLocaleString()}</TableCell>
                 <TableCell align="right">
                   {Math.round((row.refundTotal / data.totalRefundsIssued) * 100 * 100) / 100}%
                 </TableCell>
