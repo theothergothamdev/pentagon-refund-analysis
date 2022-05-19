@@ -1,1 +1,3 @@
-# pentagon-refund-analysis
+# Pentagon Refund analysis
+
+Simple log parsing script to extra some metrics.
