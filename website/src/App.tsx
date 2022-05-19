@@ -20,7 +20,7 @@ function App() {
   const [textFilter, setTextFilter] = useState('');
 
   const filteredData = textFilter
-    ? data.refunded.filter(item => item.walletAddress.indexOf(textFilter))
+    ? data.refunded.filter(item => item.walletAddress.indexOf(textFilter) > -1)
     : [...data.refunded];
 
   return (
