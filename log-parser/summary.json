@@ -1,0 +1,5166 @@
+{
+  "refunded": [
+    {
+      "walletAddress": "0xd9c6b4d5253edb3675d4377fe676552bc7d704d7",
+      "txns": [
+        "0xa2f7be1c96c95d54a97d70ddff216a15faa1130fef9242b26b0545cb48222c29",
+        "0xa92cf01eac0892fdf3fa25a1f1e054f1ad7a29e971a1e0375659d162f9c7c400",
+        "0x4954eb0ccf963e757d2152158592aab073c08357028ab88401eec3bf89aaf926",
+        "0x6ffab70703cc626c085cedd4f052928907f1b597d4893f6ae1782546c96ae5e9",
+        "0xa434f8f8e181393650a49a5f89aa5ac3d133e130afe4fbbe961eed2bca6c169b",
+        "0x76707c44da8df040632b39857d130d498eeaf9f6d69adc9e68c37562cb5b0436"
+      ],
+      "refundTotal": 15311
+    },
+    {
+      "walletAddress": "0x2697164e0ff587fef905ee9b6e08d3ea8a26e34c",
+      "txns": [
+        "0xe310fe371a352a11f9fa4735228b23114053cbca53f1ae22a9b3bd2c0c00e159",
+        "0x6e21aad3fdb5e4ae2cfde40034b2ccad747c8e81e018c36773ce0c5a893eed1f",
+        "0xd1c18ddd347a9fd14055afecea7fb6ff64393218d759122972a643930568ba67",
+        "0xd95b0d979043ce9bab922d8b6674dff74e933316106ea76b7f25678a501d4d65",
+        "0xe2a0e129c336d3a2c760a9b8438974808fa5f1bfbef6e992c890ed59adc3805b",
+        "0x1ce49265371e44a9ffeb9e141adb3c2c522c533abfee2981e34f3de00f22473b",
+        "0xbcb6dbb75c39bc8c713baf9d98fd7b30e8562cac02be4232e3934111842e24a9",
+        "0x3736368c5b0db58b14734d666085bde48f3fd6d4abce5a51f75aa0f0e2107124",
+        "0x0de344bdc66bad7c358981f74500f46274fb74de34a7328bd417ce184f5ca064",
+        "0x60f2917cdca4a841c813ae699061db462fe413425217161163378d6a32f43b80",
+        "0x7102014646599badd4d3a7a2de4d379308d5ec4d524904f1f124e1db5ead7958",
+        "0x17b5c4f31d250a685c2cff65ab733de5d0f686e45b1fde9f323e7e9ff9b56f11",
+        "0x6e11770d10b4e8711a413434ed62fc2c598283684925fbea570069ab50fbe854",
+        "0xccdfa0e222f22428c977798ac44145dd8136db378d2b1fb2eb3cee0901909c79",
+        "0x44d4c266b731094ac5c864e6f8e1479eb189a71e60e85479b9af111e2346a1d3",
+        "0x14e918c5057a93af8887356ecf00ed53742c7ff2e403ab0f2134fcd4d20cdeb9",
+        "0x0841b378a112e989d609d9431d7fc2f31a199c98e37880b12b8905f2b875fe09",
+        "0xa491f8447ef2abee9a68ad30199dadc8f5a9b2ff8ac8e08ce32a0d1642bffcd0",
+        "0x02ba19c2e4c44ae012c5d3aa470bbced7926a27abe34474bb974aa70da6eeefe",
+        "0xa3335431da2414f5a8c45521c0a09c1454aca089f374fee6f63c61ac3f7e02b7",
+        "0xba02a84387714e08319a1da23dcd0f1d1367da3227b50d2dc817b8b0dff21817"
+      ],
+      "refundTotal": 14819
+    },
+    {
+      "walletAddress": "0x02e8cd433dc28ec56a630aa52812b5ef9ab88b25",
+      "txns": [
+        "0xc787287d4bfdbcbd9ce8a356b38a872bfdc5ab63907f231d1d5f212fa7795d48"
+      ],
+      "refundTotal": 8329
+    },
+    {
+      "walletAddress": "0x50bda96ed0a65a9b1de9b6818419f566fc2b2243",
+      "txns": [
+        "0x12188f22cf0a2fa2c3e0257401c1e35e36189c16b37270e2446887435c0ba13e"
+      ],
+      "refundTotal": 8329
+    },
+    {
+      "walletAddress": "0x8f4151a2b51ab84af6d5f1734092a442be040498",
+      "txns": [
+        "0xf6a345ca634782da94c92e5e6f8de83a7b436266120bf5d7f52105c8a3dfe4d9"
+      ],
+      "refundTotal": 6609
+    },
+    {
+      "walletAddress": "0x32df328fe32a00d636f8573808547793e2f3df7b",
+      "txns": [
+        "0x7924e2c74d2c5c52b3a113beaf8f77079c9e2d46902021ecabadb6aaa76e846d"
+      ],
+      "refundTotal": 6593
+    },
+    {
+      "walletAddress": "0xc55ae1cc28a7c741d64b93136f91d729f01fd118",
+      "txns": [
+        "0x4e9d55604a671c08f3a2411c24bc4f2f003baed8aedf65ebe4ae5a8cf9de12d9"
+      ],
+      "refundTotal": 6572
+    },
+    {
+      "walletAddress": "0xcf4c1e6478a6d46a674e17712cb8111335e09d55",
+      "txns": [
+        "0x9362918fd11d86c719afea7f1cfe305f733f424e91dd8add8c3cbdbd68ef46de",
+        "0x3fcab1bc5104324a2fa3b3f5ab5d65dcf049dcc584f99141f76efdf59454e87b"
+      ],
+      "refundTotal": 6460
+    },
+    {
+      "walletAddress": "0xfdd39d5a6a69d3aadbc81a14eb7b617832a9e384",
+      "txns": [
+        "0xc4928fb5fe27eb0d49cc91f60d32f0e87e4b5fc9e3fb08ee7e65032da37706e2"
+      ],
+      "refundTotal": 6214
+    },
+    {
+      "walletAddress": "0xde0e44054b679dcb9671ffab588f98c9c332bbe0",
+      "txns": [
+        "0x144b1f4b3b06162ca212ec7793af34dc36bb7c2c0277acc2c62006e6153fe7bd"
+      ],
+      "refundTotal": 6214
+    },
+    {
+      "walletAddress": "0x7ca87161ace66b5e6663781ccd71ae087a953a7c",
+      "txns": [
+        "0xe740703235482d6174e55a242b40a1c90c48eb8dba905b15c80d32b54ee55661"
+      ],
+      "refundTotal": 6100
+    },
+    {
+      "walletAddress": "0xab45d649a3d85a77e119e8bd84be4da31d4a7fa6",
+      "txns": [
+        "0x4d055e753fdfa4c04a7f814b31ede6c61e570cd44c51be102fdc09e1da59b785"
+      ],
+      "refundTotal": 2395
+    },
+    {
+      "walletAddress": "0x26f6c2460e43366cd4bbf0bcfc97311cbbc0eb08",
+      "txns": [
+        "0x5d6a2118d5274e561abb0a77517643b1e40fdf011dec5aad447cc8eb6dbe731a"
+      ],
+      "refundTotal": 2395
+    },
+    {
+      "walletAddress": "0xd1df5451582b73ac9974aa891d703d3236bd7b99",
+      "txns": [
+        "0xb32eebcebed127cfd6401fdee7a265463608327a3fda95438b88611949fe01eb"
+      ],
+      "refundTotal": 2322
+    },
+    {
+      "walletAddress": "0xb7be95e346fc5fddee6510f4feffd29e29589d4e",
+      "txns": [
+        "0x350514c6861a07c5b7acd8a86bae9b8d17cd32ec026dda5c2b2a3019ca92a29a"
+      ],
+      "refundTotal": 2233
+    },
+    {
+      "walletAddress": "0x9de468d4b01d8741cb03cad5010afcc59c6509a8",
+      "txns": [
+        "0x596da71fa22c40a0e2c1dea925a629b85cc3d32b6478e3ff92989bb610028fae"
+      ],
+      "refundTotal": 2183
+    },
+    {
+      "walletAddress": "0x8822913efcec6f2f52de92ff7b9c6cbb306acc6b",
+      "txns": [
+        "0xae1cdefaa3d683200aa2a7d282a75fa04ea2794e12faccbc7398469f1948dc81"
+      ],
+      "refundTotal": 2091
+    },
+    {
+      "walletAddress": "0xc2ce78dcdfd367d3887009192b8f262026c79382",
+      "txns": [
+        "0xcf13f2e55a10e292a21acb74e2345ddf009f1576f21a38cf3b352e23728a9da6"
+      ],
+      "refundTotal": 1885
+    },
+    {
+      "walletAddress": "0x01f63fe74e26772a0bc7481059cb1636a892591c",
+      "txns": [
+        "0x1aa3ed6eb3b94e16633d6d9057cffbd08d39c49910e62ce6b3ef365217855057"
+      ],
+      "refundTotal": 1885
+    },
+    {
+      "walletAddress": "0xcb542a2f07279d18458d433e189334c4a51394b2",
+      "txns": [
+        "0xa4f828dcc8de78f62ab65a5655dc299b8357b89d2a3ae49c06aca8e555d1fb7d"
+      ],
+      "refundTotal": 1764
+    },
+    {
+      "walletAddress": "0x0bf73846a77d633ded517324177657d54fe41702",
+      "txns": [
+        "0xc3f98e6b7545a88d185ad8005b5a8a9de2cbe8dc4c801f75b7da44535be82f69"
+      ],
+      "refundTotal": 1705
+    },
+    {
+      "walletAddress": "0x0e6dd52873e041ba6c6de0be5144a7bc98081b12",
+      "txns": [
+        "0x4fe39c950ba10936270050c965156e64416ef63daac3f8c643bad4910d31c32e",
+        "0x664506e3dfb9cabad9d0eb503a2c01fb565cd6b0809d2903cea53c64360cb086"
+      ],
+      "refundTotal": 1705
+    },
+    {
+      "walletAddress": "0x8aec9436824656ad863da938e5f9640795305671",
+      "txns": [
+        "0x16cdbdecbc558b7e309bfcb97158636645424b31e19c68b0cd09f4638f88a25e"
+      ],
+      "refundTotal": 1659
+    },
+    {
+      "walletAddress": "0xbe4c1585e69217af02784d3fe1db9cf91f926f77",
+      "txns": [
+        "0xbc721793662be52a87300bf96e8d32717e0e1fcc0b32338812eb3a33ce06bc7e"
+      ],
+      "refundTotal": 1467
+    },
+    {
+      "walletAddress": "0xe01f81560b061d78d906babe5fb8f43153ef5772",
+      "txns": [
+        "0xf4b8fb47f16c6f0dc5fb3eb56deb32b06539730be81ed2584d3e4ce9f5284f49"
+      ],
+      "refundTotal": 1467
+    },
+    {
+      "walletAddress": "0x627ec90138d10f4cd34d4368138b31751f5a9697",
+      "txns": [
+        "0xfbb29ee4936483955ba463909474b7de5e52673a050eba4cfeda73682e3613a3"
+      ],
+      "refundTotal": 1390
+    },
+    {
+      "walletAddress": "0x39df9161a9baeabe15bccb8cf4dbd19e53cc7f21",
+      "txns": [
+        "0x14cbc4136d083933d5a49a3dcf0cde172c663fc940de2332d4adb2e3987f0b9e"
+      ],
+      "refundTotal": 1265
+    },
+    {
+      "walletAddress": "0xbdffd07c103810f3f30e471fc169760c3316b1d0",
+      "txns": [
+        "0x55b944b6ccb6bffcb179316cdca7c598f067f66976f42f7ed30c4dc157515161"
+      ],
+      "refundTotal": 1191
+    },
+    {
+      "walletAddress": "0x7911670881a81f8410d06053d7b3c237ce77b9b4",
+      "txns": [
+        "0x47637aabad5a685c5316d13559702ea85d0146bf3257bf3e33f95d9ee82785f6"
+      ],
+      "refundTotal": 1167
+    },
+    {
+      "walletAddress": "0x0ad596c401e9296ad4e54841baa6f4536a4ad449",
+      "txns": [
+        "0xb74dd3eec0d7c11e13f2b95d987891f0dc946d9130ee30b089921dd39902115b"
+      ],
+      "refundTotal": 1167
+    },
+    {
+      "walletAddress": "0x770b35f11435e4ce4956d71c50fa7e0643342fc8",
+      "txns": [
+        "0x4f0295c80dc115c62ed274e91f68c2c2b1144470d96a282dc2f392bbcb09bc64",
+        "0xeb256bbb5631357308c8d794e81d8e987295a69e23f4ef3c2c78ddee0fac8806"
+      ],
+      "refundTotal": 1127
+    },
+    {
+      "walletAddress": "0x04295ba1d19e601d69f4bbdb9507f21e8590b8c1",
+      "txns": [
+        "0x4ff1dc4f3450982b08d1aef55d20e359fa8fb6b5b6961693bf17576a871e88c6"
+      ],
+      "refundTotal": 1053
+    },
+    {
+      "walletAddress": "0x9f7ffdd78cfbb3206891fdd4c72e11ddcf8c4c54",
+      "txns": [
+        "0x465c7c56e9322dccf10dac34bcdd0d88dbd911b7e3c84fb6c3784172aa4292ca"
+      ],
+      "refundTotal": 1025
+    },
+    {
+      "walletAddress": "0x137de561661806faf3109d0604b0dcd1679a5b5b",
+      "txns": [
+        "0x1550139c4a0dd54080fcd929fd79638526e813bcb86469b22ff5d492e9fd192c"
+      ],
+      "refundTotal": 1025
+    },
+    {
+      "walletAddress": "0x9a7b86fac803b420dc03f7a02a7b5e250bb60a1a",
+      "txns": [
+        "0xb5269805b773919e593d2b35e8ec6954f7bf3f8e1540348cf93eb163fde16b26"
+      ],
+      "refundTotal": 929
+    },
+    {
+      "walletAddress": "0xbab47c375fcdcf1d6e52e6d8f1acad2f715afb9f",
+      "txns": [
+        "0x995b331b24d78cbfabc86a9b6b65e8da2f191beef123508b697af5c5409c3dd5"
+      ],
+      "refundTotal": 929
+    },
+    {
+      "walletAddress": "0xc539a5ef03b50cf692b5e8c2f4748fdbb8d880a3",
+      "txns": [
+        "0x9489bdb8d965aac29ba6ecf5f3c209d13af036a8854d303acf375e70e6f2cf69"
+      ],
+      "refundTotal": 929
+    },
+    {
+      "walletAddress": "0x28c1451ab6fd875f33e583da87a18f9b84f6b18e",
+      "txns": [
+        "0xaa032c8ff946b642192a374a19b7f9bc7887c92ef2941cccf2ffc58d8cf96b6b"
+      ],
+      "refundTotal": 832
+    },
+    {
+      "walletAddress": "0xe11b3a2a22990b87eb693182a90f4d0820b7ce51",
+      "txns": [
+        "0xe3ecc87ffd31ea46237260e8a917b51ecad46233c0d1f36e9db1d716510e8a85"
+      ],
+      "refundTotal": 832
+    },
+    {
+      "walletAddress": "0x5b677009b63441418e3def2c6743d7b43faf91d5",
+      "txns": [
+        "0xfa47568143644f8acf6c2c1868ebe7e2e897e3c96028a3a6def0ebbd74161b2f"
+      ],
+      "refundTotal": 805
+    },
+    {
+      "walletAddress": "0x2bc76672a4b7cb09a6c1e11874bbae1c7144d061",
+      "txns": [
+        "0x57bd233d858e10840e4fdd87509f58f27f77a44b63583725fdbb6b8a47ad2972"
+      ],
+      "refundTotal": 805
+    },
+    {
+      "walletAddress": "0xb7feec9003c48243eddffe26304b29d912e0066f",
+      "txns": [
+        "0x13eb537ef2826c4d73a4f4fb5ee8a07e9583e8239ddff49472da352f46d289d9"
+      ],
+      "refundTotal": 805
+    },
+    {
+      "walletAddress": "0x00e94d0e60e8b5d9ad4c0f0d42f3c1fec85dc3f9",
+      "txns": [
+        "0xece30e14d4bdcd97fe826a5329b009dbd7eb9a88254426cc736e1b7231e275fe"
+      ],
+      "refundTotal": 805
+    },
+    {
+      "walletAddress": "0x06224885b7bdd85206ab03e1f35c5e43ddd396a9",
+      "txns": [
+        "0x75c819c9d18e8c42331dd0354d9b8e2e84ca0c9592f5dbec5664eab5b245fd17"
+      ],
+      "refundTotal": 776
+    },
+    {
+      "walletAddress": "0xf75b1dc34eb79a39b931ea235aee206ae781dc9a",
+      "txns": [
+        "0xf09629c9a9fec899171cd9e2edfdc926fdf1c48f8f878a18d70cb5253a773611"
+      ],
+      "refundTotal": 776
+    },
+    {
+      "walletAddress": "0x4731ef7d09e383cde2f5b581954c6e5b0f50f68a",
+      "txns": [
+        "0x6e2f42c7332b5535b5329a2e8503adc87bc4a081b74223dd70f9dceac9f8b7b7"
+      ],
+      "refundTotal": 776
+    },
+    {
+      "walletAddress": "0x775cef10fa1f2d46726c79690d29d6ba1aa307a6",
+      "txns": [
+        "0xac69d3f6d101cacf2fe305b8da73cda0f34a5957ce43c12e0fcfb5e41a067098"
+      ],
+      "refundTotal": 776
+    },
+    {
+      "walletAddress": "0xd054fad24da4020db9785b93ac95cd42de438357",
+      "txns": [
+        "0xeeaabe0390aad2d609bbf35c565675dfbe46f7829bdad46e100044335fe3667b"
+      ],
+      "refundTotal": 776
+    },
+    {
+      "walletAddress": "0x59259dd3e3f5eb4bd910adf379e33a443b1d1444",
+      "txns": [
+        "0xfb9b41fc3df422d3e02762b0bc5d631393c7714bfd0c919ed312a8208bf5bc82"
+      ],
+      "refundTotal": 776
+    },
+    {
+      "walletAddress": "0x4d6e7101ab8964962ec162b9bbf0fd6d373f865e",
+      "txns": [
+        "0xc3d6d7b25bae65676cf3850dc501fcc4fed7248fbd97a6f57a27b64c1a29c3d3"
+      ],
+      "refundTotal": 776
+    },
+    {
+      "walletAddress": "0x1526be9e39140a03189ce86bf116f75674a69fd9",
+      "txns": [
+        "0xa73d665b3fa0d3475887311f8080f97689017c36da00c2d71691cdf4a9860332"
+      ],
+      "refundTotal": 776
+    },
+    {
+      "walletAddress": "0xd8294c0bf547ff6a263955ab6dda8cf258e288d6",
+      "txns": [
+        "0xf16afb99ada1bb80905fa0b81613285df37905c40b8305df780cb4c2a2156e5d"
+      ],
+      "refundTotal": 776
+    },
+    {
+      "walletAddress": "0x76fe558638df819bef3a2932eddc7ee3edae5870",
+      "txns": [
+        "0x6f7f51be1c554e71c024ee8743f15d75420aebf0981f77b728d0039182a62e28"
+      ],
+      "refundTotal": 743
+    },
+    {
+      "walletAddress": "0x0d09aa156710865f9ffc9084a48a84f28bf6f1db",
+      "txns": [
+        "0x95e9262d0bedb8701e9f636983934f6b77c5ceccd23811cc00fa160505258074"
+      ],
+      "refundTotal": 743
+    },
+    {
+      "walletAddress": "0xb21cc7ed69f72b1c279f480db4bd2ef837e15ee6",
+      "txns": [
+        "0xc9b2798dfb1584d57d9396549fc7cfb23536b76c5b053e9615777fe034c39392"
+      ],
+      "refundTotal": 743
+    },
+    {
+      "walletAddress": "0x08732569617c16d9d457852faa1967fa9cdf378a",
+      "txns": [
+        "0xdb54e59173f711ad7ae6d78c7662b09471be19845eab5bb21b523c5c4959ffe9"
+      ],
+      "refundTotal": 743
+    },
+    {
+      "walletAddress": "0x571f05326831e2406571a01659b148d3b8bf09fa",
+      "txns": [
+        "0xe00b883ac306c0fa4815a927130c66bf39a967b94e29eb21446867bebeb568f6"
+      ],
+      "refundTotal": 743
+    },
+    {
+      "walletAddress": "0x6bf044843f83c54c8b8873a229e50136a151dc23",
+      "txns": [
+        "0xc9eab7d755cc68ce1c6281d433ab30963ce9519931fe92db8f389219b86b4bd2"
+      ],
+      "refundTotal": 729
+    },
+    {
+      "walletAddress": "0x0c0f18d12758fb8128932d0a63c5af02687245ad",
+      "txns": [
+        "0xcbff0c54d6fe0cd9515be2cfd508ba18ed5e5c547192e196afde94a9c2c40ded",
+        "0xb875e32f3ee5eea79fd47461acdee764703084ee4a543351ff2f7da8de918360"
+      ],
+      "refundTotal": 714
+    },
+    {
+      "walletAddress": "0xdfd7abd0b41e518f4befa89805ec8ccf117f902f",
+      "txns": [
+        "0x997ee1ebcea7bc51babd218924729fd66ccb69df9dfa3092823daa6fede579b8"
+      ],
+      "refundTotal": 708
+    },
+    {
+      "walletAddress": "0xda826b6d9c8e5934e8bce119d80da3288f05e257",
+      "txns": [
+        "0x96bce1395a2ade8a0fbe83844842166fd0130714568bb57fb4fc42f52e05e12d"
+      ],
+      "refundTotal": 708
+    },
+    {
+      "walletAddress": "0x0cbf4a5bfc543a313983935ffc2fd33538d72ff6",
+      "txns": [
+        "0x1cc4c1f1a6d54d326c02f7b9bf66098890029802ba012ef0f5e7b2473caa8c13"
+      ],
+      "refundTotal": 708
+    },
+    {
+      "walletAddress": "0xac3d4a348a8c903283a0c486e5e2a74cc30bf8ee",
+      "txns": [
+        "0x61185c3d0b04affc4f469b510acd4a5e9caddc6b453c388b33dc31106a1966b4"
+      ],
+      "refundTotal": 708
+    },
+    {
+      "walletAddress": "0xd49fa95bdfd4a8e5a34754f7688bbcaafc8aacec",
+      "txns": [
+        "0xc3977c2910df961ee0c1d3e096eb112f5d04d105831faa7b0f6f17e0a028971b"
+      ],
+      "refundTotal": 708
+    },
+    {
+      "walletAddress": "0xa8c3767da5a0cd3d38478854204cb8428ae42bae",
+      "txns": [
+        "0x2cd6526329574e6468141a0a5650685341ba85c270a5dc35615b0d7d6c2476b1"
+      ],
+      "refundTotal": 708
+    },
+    {
+      "walletAddress": "0x306c7e67335d5aeb462b8c14275bbf617bd68e9b",
+      "txns": [
+        "0x7106f7ba70a8a9c85be087cf9d65f8b4b6b50c951088cfa17b72c0fc2835f73e"
+      ],
+      "refundTotal": 676
+    },
+    {
+      "walletAddress": "0x3e748e2c2c559466afa24ecad49dace598bd06df",
+      "txns": [
+        "0x32347d6e2d9b0ba59d3bc684efaf2d77e8a74dea7fba1a495815d8c7cee4b124"
+      ],
+      "refundTotal": 659
+    },
+    {
+      "walletAddress": "0xba8765802198e5c19f2ba8fe9b0da2b225927aaf",
+      "txns": [
+        "0xf90fe1387455e47653fe4e8c355451100a5b9288720f79b99a0ad3088255d278"
+      ],
+      "refundTotal": 659
+    },
+    {
+      "walletAddress": "0xd3582814b0fb6eb5b17a01845ba1f9d8fca6e2eb",
+      "txns": [
+        "0x43fa454cb4215286db57b80b99b9112d8f3f5ea7fd3156c15f8c1460f1684c00"
+      ],
+      "refundTotal": 659
+    },
+    {
+      "walletAddress": "0xb5566ccfdab933f4ebeea17192b46173b5e51654",
+      "txns": [
+        "0xa0dc5c22395c3695ff5b41fc3ffd44aa356116ebe9521cc0d8f8d2f3c036bd62"
+      ],
+      "refundTotal": 659
+    },
+    {
+      "walletAddress": "0x42cae54d92bdd19d6f2ed5f424e22c48d0831c66",
+      "txns": [
+        "0xb2da8f69e26b802277e859782f007031cb4b5ac0b41c18ede3e76b0b745b6975"
+      ],
+      "refundTotal": 659
+    },
+    {
+      "walletAddress": "0xe825b40121f305f8ee7da41255175b2c8a27d829",
+      "txns": [
+        "0x89f3fd733ab110b2e73d3edfb35ab09e901d8d32b80b921439a9c3c7560e87e1"
+      ],
+      "refundTotal": 657
+    },
+    {
+      "walletAddress": "0x1ee270827c5e0960f2ebdfe53280bc690a6bd9ed",
+      "txns": [
+        "0x616c5007abcb22c0fa915f2d2b42f4bb45aa8ba537edcde52fd69487fbea33ba"
+      ],
+      "refundTotal": 628
+    },
+    {
+      "walletAddress": "0x340cedd43e359d9a1a3a930d77e6f9d97e30503b",
+      "txns": [
+        "0xc7c8baf12c12979d3fe813a17dca3157c18463dc8d651dc505f8dc74378ebbe8"
+      ],
+      "refundTotal": 483
+    },
+    {
+      "walletAddress": "0xb46f6893ebd57f0225378aa429427be3ee13cacc",
+      "txns": [
+        "0x9e48945547fe759fb3a6ffa6d3374c3d2867f717b8963e76a6ca3912be5e60eb",
+        "0x6ef95ee2778aca2f91afa79a3553780686e5a6499db7bff5f8a8dd09e3dd6d0d"
+      ],
+      "refundTotal": 280
+    },
+    {
+      "walletAddress": "0x2eab754c1c08fad60dd833c4ccd31b0498ef11a9",
+      "txns": [
+        "0xd6f7c25b26f3420802d40401b4375b5e184d9b1793b9cc1cc7dfaad99f564517"
+      ],
+      "refundTotal": 239
+    },
+    {
+      "walletAddress": "0xc5454fa51fb675b850f69aea6af7d760f45ee4e7",
+      "txns": [
+        "0x402950ce97e0edb8672ecaced075537aad83fca0a82599105e89d753f7096ce5"
+      ],
+      "refundTotal": 232
+    },
+    {
+      "walletAddress": "0x5fc3d209c6f100b5735f54bd2ba65d5beca8058f",
+      "txns": [
+        "0xddb9a831a88dc3fbae354963e38fd6b33611cd80e15702719f55d853745f91cf"
+      ],
+      "refundTotal": 223
+    },
+    {
+      "walletAddress": "0xa9acb9487129458802839f42120a61e76e8a0bcb",
+      "txns": [
+        "0xa49dd021fb987ee8f094adf5dec00ed178efe6eb79a905686cd12ab818bd017a"
+      ],
+      "refundTotal": 223
+    },
+    {
+      "walletAddress": "0x438a35076812324f8e9188709a320498b42a5c1f",
+      "txns": [
+        "0x50f01ecf23eea54cafbf63c377087cb01f4d700dde6cb9e37060dc4e6d579b7f"
+      ],
+      "refundTotal": 209
+    },
+    {
+      "walletAddress": "0x5b4d13c9568129c4c027162ce45bcb31002e4b35",
+      "txns": [
+        "0x5e838c88058f3e181deeb42c3acee529ef663b34ae89e73fffc321f59a8bd1bc"
+      ],
+      "refundTotal": 139
+    },
+    {
+      "walletAddress": "0x8ee7a7aad2aa6ef5393ee6f3a58992c906e6e734",
+      "txns": [
+        "0xca91c6fb4ec6d865ba64073d3f9c1c73622d1368056767cc671970355e9f6a6d",
+        "0xf263f1a949f218afb8c2af9836e33b198a2f2738b0622227053176b5b1b7b147"
+      ],
+      "refundTotal": 138
+    },
+    {
+      "walletAddress": "0x7acdd357eae1ec7aed7b9cc52b72a706a4f965ea",
+      "txns": [
+        "0x47e5ea482346358b2ffe28448aac8197f8105065d76ce6c151ee4f55b3a033de"
+      ],
+      "refundTotal": 126
+    },
+    {
+      "walletAddress": "0x0cd44a74996d0dd8f21db3cd13ad7af6a69a7341",
+      "txns": [
+        "0xe6d201bacbc561bfd1efd8dc979921af05d6daeaeccddca258ba5553e618de48"
+      ],
+      "refundTotal": 122
+    },
+    {
+      "walletAddress": "0x608ab57a77cbd960ec007c10db2870bbc367b48b",
+      "txns": [
+        "0x4c061090e88c8d28e5ab2bb9c9d1003ffb41e942ffc92bf6801395f497499b7a"
+      ],
+      "refundTotal": 112
+    },
+    {
+      "walletAddress": "0x85250464947fe06b137476dd470718cdb2376eac",
+      "txns": [
+        "0x290f8af9915e641d10c9c68dec07c6aea5544735ea7f44d507826b4340fdb6a1"
+      ],
+      "refundTotal": 104
+    },
+    {
+      "walletAddress": "0x5e7d8a955684455adeaabf9f7d7f2fab81238cd9",
+      "txns": [
+        "0xd789814dbca36e3ea569da7533e283fb73b12faa55c117bb2260d530cbc10749"
+      ],
+      "refundTotal": 100
+    },
+    {
+      "walletAddress": "0xe12d731750e222ec53b001e00d978901b134cfc9",
+      "txns": [
+        "0xfa61c0fd342297ba5517bb432ad0e587ad23301402bde52ed33bb68f76239613",
+        "0x59320569904b364b73d862f0bfb46b8a8ffcf1eeac9e3d6a4df9066710c83ad0"
+      ],
+      "refundTotal": 99
+    },
+    {
+      "walletAddress": "0x7ac3fe761e1ee11f5fb79f042a4fd45911dd640f",
+      "txns": [
+        "0x2e6be0e5fb3febe7561e1ee091628943934ceb96a0b379c387ca6daa1897e6e2"
+      ],
+      "refundTotal": 92
+    },
+    {
+      "walletAddress": "0xb1f0ccefdd885571aa06efa2c172e598c0f82393",
+      "txns": [
+        "0xc9930347b17fc188b76ddc361650b26ee07354b873109e5549143c3d2e87c9b4"
+      ],
+      "refundTotal": 83
+    },
+    {
+      "walletAddress": "0x78033f825e44991061973a048e63046d38c153e4",
+      "txns": [
+        "0x80e77f5a20a4f59c7ab845660cfade18afb045624522f917459e2a2345e7efda"
+      ],
+      "refundTotal": 83
+    },
+    {
+      "walletAddress": "0xde75f6bea0308c6d978e136a66d0f4abbde68e93",
+      "txns": [
+        "0xc07ff0d53864be8dc0309576c6ce91a04f529259526682979183365807575313"
+      ],
+      "refundTotal": 83
+    },
+    {
+      "walletAddress": "0x1a4a77efad200658c794a51ed3317dbe4bcb4e5a",
+      "txns": [
+        "0xdabe6fd886588f245586118277a8696c25fdbe7ae884f41eb2446c877015f03a"
+      ],
+      "refundTotal": 83
+    },
+    {
+      "walletAddress": "0xe6e9128fb3603e4b51d3bf5719770cde09e3e661",
+      "txns": [
+        "0x324134b786c414bdd08d2a8a507ff41d11dc5fbc6ea859439fea2bda46324b40"
+      ],
+      "refundTotal": 83
+    },
+    {
+      "walletAddress": "0xc4704e55208985fc0b1b07a8979b435cee21c638",
+      "txns": [
+        "0xa693ae0b12d9a8686cf4f795620826f106a0e5d081b4b9f7ba14f07b95239f84"
+      ],
+      "refundTotal": 80
+    },
+    {
+      "walletAddress": "0xa70d11752e0b6c2ad026cf60c4114d8c6909df6b",
+      "txns": [
+        "0xfaf0b4ee9fc628bceb285e35efb9b278e620a45db94046ea0fecbae2da7422a0"
+      ],
+      "refundTotal": 80
+    },
+    {
+      "walletAddress": "0x8cc04d70498da806b45d75347f872bf4b8d7cd8b",
+      "txns": [
+        "0xfefa1953e449dd3165427de38a27d03e7cad193d4c99d736cf64f9b9a465127a"
+      ],
+      "refundTotal": 80
+    },
+    {
+      "walletAddress": "0x1c60963561075a26d68566c254133212a6918c5c",
+      "txns": [
+        "0xae661816ccff6ddc6f3a4d1da7e2fb8ff37d01b6167fa5f4232a540227c43dfa"
+      ],
+      "refundTotal": 80
+    },
+    {
+      "walletAddress": "0x1ed9cb1d102270f377dfb9b7781a28fbbd79a38e",
+      "txns": [
+        "0xc60be2b2d9a03daa828cea7f76063f42606c76882f8a0659bc10c6328de847f2"
+      ],
+      "refundTotal": 78
+    },
+    {
+      "walletAddress": "0xd75b8df886a5fbacbb6a5627569e2fdc4f16c277",
+      "txns": [
+        "0xfaf8cbad53b593c1b071f737ae8e39e1d47705b7f3da0feb11472a9343541844"
+      ],
+      "refundTotal": 78
+    },
+    {
+      "walletAddress": "0x0f44214d924edc03e8505ab0973ee93003b32416",
+      "txns": [
+        "0x3710e8a76086807c8f16a5f98ffbc6941b1f64fbc2d689349258fd3e17d45bb6"
+      ],
+      "refundTotal": 78
+    },
+    {
+      "walletAddress": "0x9f8a029a3355cb82f17033c54c0a545c67e93c1c",
+      "txns": [
+        "0xee3e1ab8dbf0c0d5822dcbbf6f96ea80799897e777b94698d9a809deef63c3e1"
+      ],
+      "refundTotal": 78
+    },
+    {
+      "walletAddress": "0xb48d9ca1797f431f690b3ac62732373e49e50d5b",
+      "txns": [
+        "0x32e9f655653c4d4de760eb85e02cbcc69cc1b68d76851fa2141ab60c309e9ae3"
+      ],
+      "refundTotal": 77
+    },
+    {
+      "walletAddress": "0x21f851d4c6a8db0147dabf878c267dbeb09b0972",
+      "txns": [
+        "0x12d6df3d5ae1bde7a775c70f74dc7d94e518df37af6b1962d4e34465f45ca570"
+      ],
+      "refundTotal": 77
+    },
+    {
+      "walletAddress": "0x38871b68daf7996af3f8515a1f3ea79685314e25",
+      "txns": [
+        "0x50457249687fa25bd70b308eb33063faf5c3100c70cfb5954d9d57414306a5eb"
+      ],
+      "refundTotal": 74
+    },
+    {
+      "walletAddress": "0xda00c3eb2d5deb322855fd4228c95393ae8707d2",
+      "txns": [
+        "0xb6371f8eb8192de8a5d8b063c36a9c93feb8f7aa1b97b0bedc3e7e10a81676e5"
+      ],
+      "refundTotal": 70
+    },
+    {
+      "walletAddress": "0xabb4b86f8f7cf2fca7c0e026a941578ea7fd33fe",
+      "txns": [
+        "0x185be5f03eb2dfe433bb02d71015c26713001f524597e32f7f0ef0f78577983a"
+      ],
+      "refundTotal": 70
+    },
+    {
+      "walletAddress": "0x00cbcbbf6ea84b7bed2b79ef7e6980255d269cf2",
+      "txns": [
+        "0xbbe6ba35402d9ff896659158c26fed8cf93f780f1cec11e09c50459c17a03306",
+        "0xdd9b12959feefb3ac61059c54405141b81f0249ae386a4afb91bebbbd39df7d9",
+        "0x7da9be5183f3b4b2238aa867b0f835c393a579428c62f60edc741342f5dc258f"
+      ],
+      "refundTotal": 69
+    },
+    {
+      "walletAddress": "0xe05c9908da20a9aec5cc666d48f2b817f302c3b1",
+      "txns": [
+        "0x3d9d7ebda27818a349b847c56b7f9e2033ad20ac0a2ed5d16aecbba202ac4c52",
+        "0x4a48735151f0d1e1b3ab88a185386ae0eb124f736f69efb0b077bed8fe0d0810"
+      ],
+      "refundTotal": 68
+    },
+    {
+      "walletAddress": "0x70f32f391bc96eb6bd7ea469556dbcd9294c3f03",
+      "txns": [
+        "0x95e74a9fc9f48b4e78322c5896618968438d93efc2bffc61d63ea6992a42b347"
+      ],
+      "refundTotal": 67
+    },
+    {
+      "walletAddress": "0x806244c8b79d71e9519b31b0202cd4629c345a7a",
+      "txns": [
+        "0x21aad051bfeb66a0b89dda0c23692483af7d480e921e315f1589456ca984cace"
+      ],
+      "refundTotal": 66
+    },
+    {
+      "walletAddress": "0x32dd48ded30dec56903f8ce5cdb8ff556d86c382",
+      "txns": [
+        "0x3146ba1b8e3fbbed6554d0217176abb88d38c0dd6965a87a40412b4831edf81b"
+      ],
+      "refundTotal": 66
+    },
+    {
+      "walletAddress": "0x95334b82fca573e975423cab6ae1815375d2f907",
+      "txns": [
+        "0x27a4e5c874599686c325809414b8e912cbfc43467b4e66ac8cb4a5cbc53febbb"
+      ],
+      "refundTotal": 66
+    },
+    {
+      "walletAddress": "0x90e542c5e8cbbb6d3e7b02ea6b6250abf86c3ea2",
+      "txns": [
+        "0x592e1c8d8a0feea11a6b8217c080ca3bd4d61c36d77ee4b309285fd8179c3f00"
+      ],
+      "refundTotal": 66
+    },
+    {
+      "walletAddress": "0x912451101ac1779d8f63f6f889b664bfb99a5bda",
+      "txns": [
+        "0x369be4439cbd19042968b0f9eeab1b7f11dceed621a87b3baac46f5bbbdf0248"
+      ],
+      "refundTotal": 66
+    },
+    {
+      "walletAddress": "0x4f920ceb5eda108ca45d608bd9b64103305ad2f6",
+      "txns": [
+        "0x37b06faced35eecd20265e5cd944f019d452891388f43687bbb5b11651bfb4b0"
+      ],
+      "refundTotal": 65
+    },
+    {
+      "walletAddress": "0x12a4ececee8fe3de7bf6066b43f83199c535b718",
+      "txns": [
+        "0xdec269b2441a5934eb057a839746806eae5587da3d9afdfca1356a9faf593a13"
+      ],
+      "refundTotal": 65
+    },
+    {
+      "walletAddress": "0x817cfaeaa83ff62cca8c15851b2ed7cb4050b3aa",
+      "txns": [
+        "0x15d8b2436afd9ebd809a92f032f0693cf6d1594011c2b41a43b177545235ca7a"
+      ],
+      "refundTotal": 65
+    },
+    {
+      "walletAddress": "0x4ba9792adffbc4b360374e1e5cf045132b2dcbd3",
+      "txns": [
+        "0x0fb1f89c941548cfe2a52c8106204621129ae894ee56b4fd72d8a83b4d681929"
+      ],
+      "refundTotal": 65
+    },
+    {
+      "walletAddress": "0x77756d14c1ff589421322008d74c6e5b58a8f203",
+      "txns": [
+        "0x2f93807f078dd8fb11e2bab826c3db833cd8c9989e0a4c7f74269cafce8fa9ee"
+      ],
+      "refundTotal": 65
+    },
+    {
+      "walletAddress": "0x3a9875e1f63658ad3dd4d2055fe525f819b2c97d",
+      "txns": [
+        "0x8bbac407672dae1070c5ed9336140c997799cf6aa5c0b4e0633ed1dd414820b5"
+      ],
+      "refundTotal": 63
+    },
+    {
+      "walletAddress": "0xe48436022460c33e32fc98391cd6442d55cd1c69",
+      "txns": [
+        "0x3a9c384da6eaef30d9fd6536baa551fc931772b339fd70d9521b039c5c127898"
+      ],
+      "refundTotal": 63
+    },
+    {
+      "walletAddress": "0x048169cbe388ec9a8eebc2eb1a8395dcb50ea3dd",
+      "txns": [
+        "0xe378d6c9a4f55f8e5a3cacf37a86d4008813e7e9033a4747287a323357e738c8"
+      ],
+      "refundTotal": 63
+    },
+    {
+      "walletAddress": "0xf02ff23e6ef1606db3b33832e05e0e798a41b829",
+      "txns": [
+        "0xf67a8805650323f3bae73cfc7bf671ab88022b618be62f826ac455f287aafa04"
+      ],
+      "refundTotal": 63
+    },
+    {
+      "walletAddress": "0x5796fb18c9c8ba1916d1e9adae68398b9bdb15d9",
+      "txns": [
+        "0x1b6f540dd4e4a8586445044b978eaeadd1f6c642d0525bde4bc36e963a4b2871"
+      ],
+      "refundTotal": 63
+    },
+    {
+      "walletAddress": "0x028626d7de11fba4ae0aabf57a78a52a951ae369",
+      "txns": [
+        "0xdaba7781d6539131a2ccaf2a936fa6d0a2a9f094de676f387214a62b9eec4eff"
+      ],
+      "refundTotal": 63
+    },
+    {
+      "walletAddress": "0xedcc354564d352be1a6db94423d818729528f8d9",
+      "txns": [
+        "0xe5b05546259844344b1fcafc09efa3a80464c57d5b648dbf433449efa22c1862"
+      ],
+      "refundTotal": 62
+    },
+    {
+      "walletAddress": "0xa9f0036bf636ea0f3aec1dcb845f3f4f07e4ab86",
+      "txns": [
+        "0xe4b8ec5d16ba60796c6ab166e50e0d8922aada50007ba0ce86d65b22528833dd"
+      ],
+      "refundTotal": 62
+    },
+    {
+      "walletAddress": "0x1e29c19a7f9abc3b2d73d88b3934634bc64e1647",
+      "txns": [
+        "0xbc3674782814bf4b0cad082c4d4b6d4a29df862db9fb66b626f18fe6d4bfd3f7"
+      ],
+      "refundTotal": 61
+    },
+    {
+      "walletAddress": "0xcf2a62ede81ce1b6fd92d9783871adbe61cd24ca",
+      "txns": [
+        "0xe41da5e01d92433c6b49896f39cec61a2d254d4df3e353565dcd4e9b9ac656cc"
+      ],
+      "refundTotal": 61
+    },
+    {
+      "walletAddress": "0xbc58313126ce18300c1dfe4f4716dc7a80e16519",
+      "txns": [
+        "0xdc1a153b7f60f41e5db6296b21025e72695f38eda476f362e85c07c040483e5d"
+      ],
+      "refundTotal": 61
+    },
+    {
+      "walletAddress": "0x53b54c495767bfdfe1930c76e987f580e9db8d60",
+      "txns": [
+        "0x5b1515beb64967b16eccb77a4a9e9def067c56a24071dc4a06fa26a25fc0dddb"
+      ],
+      "refundTotal": 51
+    },
+    {
+      "walletAddress": "0x1a3dbf015fe19163c856144ef71f8aa3a96d6bee",
+      "txns": [
+        "0xc04a7d248ac6d9dc9479933931a6a4e45b557817e2fe1c28184db3b634183a8f",
+        "0x3d97ba176d2ccb75df6fa7e53bceb9e50d8a5fa20ad91aa10e637208d4fe0a3f"
+      ],
+      "refundTotal": 46
+    },
+    {
+      "walletAddress": "0x08af98cef7a7d1050ecc299290f4f6a52146bcec",
+      "txns": [
+        "0x5a74773e84bce00dc5f6f2d50095df0a20dd688e10479398521069f359a002ff",
+        "0x30a6d2b14bbba0af6a5987326db566fb3f1e64cf29533d271937649c617a9084"
+      ],
+      "refundTotal": 44
+    },
+    {
+      "walletAddress": "0xd8ee2ca016bf0e740360e59653956e9517fb3d89",
+      "txns": [
+        "0xb19c7d36a763d8ce67a908ba71233fcd904c1e7392644f0672c72fb1d0b51f1f",
+        "0x0d6e9e077b5ecf9f03b8ff65ed9448d32b324ef4faa122fbc05c4e42a3e15c5d",
+        "0xba3603547968083158b5442f35507efa7954a45806f3cf80bf7a70da74a49f66",
+        "0xf012022e871304c6a89be18bdb930a9bdab94c151ebdae52c23ec9959fe10da2"
+      ],
+      "refundTotal": 42
+    },
+    {
+      "walletAddress": "0x5b04a65a8ad01dd5cd8e7ebf90ef3b0c1f3b256a",
+      "txns": [
+        "0xbb97f7059d8d3c17ab3d5a558b83abef378d491bb350d9dc676b26c54d29ab32",
+        "0x6ccc2c62daab43c8390e91510805388aec61cf166af488acc7ce3d1365e1b586"
+      ],
+      "refundTotal": 40
+    },
+    {
+      "walletAddress": "0x8269e14b9a3ed95db483861788f3b4f006894a34",
+      "txns": [
+        "0xe4ae6b7b97e60dce77fb538cc84cbc9fa996f5f1fd0eb85df12525a1d6f3d511",
+        "0x317f43c14b7bd51cf5aa4151e94d245f82fad65110169090900c8775bca5f055",
+        "0x02670db23a9fb230cc8641f7676aa8716a907e891b10b8afb6dcbc287e67c90b",
+        "0xe43eb3a0d6e6b1dac8aff6836c9320a25a998e3363b9d66451caeb4e01b53eec"
+      ],
+      "refundTotal": 38
+    },
+    {
+      "walletAddress": "0xd66ab18893494034892890ae74235c702d6b95f2",
+      "txns": [
+        "0x459f0e3aeadd5a5cdef33eb937f6c0810f17a7f372b23a46316f9751284d96b3"
+      ],
+      "refundTotal": 38
+    },
+    {
+      "walletAddress": "0xee412bbc84ef46c32d5d9aafa224c31af130014d",
+      "txns": [
+        "0xf1f3bbef4da51f4165a971274ee4c0244a227bef4b16342c3aa8034e694aebdb"
+      ],
+      "refundTotal": 38
+    },
+    {
+      "walletAddress": "0x84d3ed4aad28b094b87299c1487c77407a87594f",
+      "txns": [
+        "0x62885a56d2b98258c847142ceceb7b3afaf5ae258e5f4505b16768183dccf2ce",
+        "0xa6c49f15e22c7052ee0f9c32ef965fd22faf34e9d6838ee89bbf4ebb55959a73",
+        "0xaf95c97d50c10d32c6fdfffc9a7d1cc226945c3f583bb0d646ae4a1bc4d48d87",
+        "0x06928e83fdf53d72315f40a86c1053b6b5adbac878e2fb2f0acc80475cae9d97"
+      ],
+      "refundTotal": 36
+    },
+    {
+      "walletAddress": "0x87f0f4b5e3cfd247583e35564574d4fad0a4bbf7",
+      "txns": [
+        "0x94289f8e62d5c31e3b517e93844df6ec08983c554155aec792f59d159535e26e",
+        "0x1da6d0bdc55fb4ac144e9f89a1cef85b7c9722b71a80206c3a87f74e06afba5f"
+      ],
+      "refundTotal": 28
+    },
+    {
+      "walletAddress": "0xc186d5270a5d95d802ce3fbe453495397c4b66bd",
+      "txns": [
+        "0xb24c183fe1ca169a1e542efc8a1617009030ad7fb96b60d3b01fff3a89f2fb77",
+        "0xfd073920c2f6f090385366e2506095d4813b0a47b37a54f3fbf58e9dac2b18ca"
+      ],
+      "refundTotal": 28
+    },
+    {
+      "walletAddress": "0x059c457a26473bf20fb80221e474146c29dd6ead",
+      "txns": [
+        "0x380459d7fd6cd8b72d246e200f9bfc5b08dc8646851cbed2c6ca786618b719b9"
+      ],
+      "refundTotal": 23
+    },
+    {
+      "walletAddress": "0xa5781e4b314608490dd142c9aba7ae5e91df45ec",
+      "txns": [
+        "0x70476b0afde9edd37b40577c0067c557decf6c6887fff63102789efecf8f2a00"
+      ],
+      "refundTotal": 23
+    },
+    {
+      "walletAddress": "0xfd72b24b9730dff0b879d176b9a8fb3992281c21",
+      "txns": [
+        "0xabc0d3dc187bd981076fc2f324f5b248e27c41367cd997f2c8bb0f65663ba521"
+      ],
+      "refundTotal": 23
+    },
+    {
+      "walletAddress": "0xfe26e150d8e5b1da5e3f42b9f6f4aadf56457ecc",
+      "txns": [
+        "0x8210393d4d9ea8f60fc829254f30ebcea838261cfb2c52d2aa9133c844ef64f6"
+      ],
+      "refundTotal": 23
+    },
+    {
+      "walletAddress": "0xf6a1a3c999c80549d4705c44b8242fd42de58e32",
+      "txns": [
+        "0xcaa8e6a261ddd9e13eae9a89e5f3da71a86b41b19f3df0cb4bce7bbf3a039eed"
+      ],
+      "refundTotal": 22
+    },
+    {
+      "walletAddress": "0x92664813ccb25b94dcdddae64b25d5303c94c72a",
+      "txns": [
+        "0x0c915dffdaab814e9314367c33267547000ad0693149b2d70d8e434dd18929c1"
+      ],
+      "refundTotal": 22
+    },
+    {
+      "walletAddress": "0x18d3d51e25f0d6942dbde1f40513f758bdd01ab1",
+      "txns": [
+        "0xc8b80c7927e18edd4774bc7902f21d7d4502db7909b239b9ec9ec8fa1ffbfa03"
+      ],
+      "refundTotal": 22
+    },
+    {
+      "walletAddress": "0xccd50d27a261a24c9c9933527443acde4ef1ff64",
+      "txns": [
+        "0xd11d597353913232766838b75ba6eea9098a06ab0b6162c3367e5a105d380c0f"
+      ],
+      "refundTotal": 22
+    },
+    {
+      "walletAddress": "0xccd50d27a261a24c9c9933527443acde4ef1ff64",
+      "txns": [
+        "0xd11d597353913232766838b75ba6eea9098a06ab0b6162c3367e5a105d380c0f"
+      ],
+      "refundTotal": 22
+    },
+    {
+      "walletAddress": "0xccd50d27a261a24c9c9933527443acde4ef1ff64",
+      "txns": [
+        "0xc2e42e16992178536e1a2303583b0565754b2db5933df2d61392b6a242ca4e3b"
+      ],
+      "refundTotal": 22
+    },
+    {
+      "walletAddress": "0x4604e3f6a0f0ede40a2e6971f31d36d90b2ed527",
+      "txns": [
+        "0xa92a3eda1547e67be7871eb150d6b57cfba640e0cae450b228b50efcbc44f611",
+        "0x094aaa9bcdfe2403d4a848dc24a9eda1103f5f61fb1278c67cb138b9873e3399",
+        "0xed6b33bc6f08c5ac31cf5ea1f2e60a6f17f9809c7d48838144ea1d93ef93cce2"
+      ],
+      "refundTotal": 21
+    },
+    {
+      "walletAddress": "0x8c431842b92b6294e7bc55f09bc76301fa7cab39",
+      "txns": [
+        "0x5d21c938f56f0d55542a2723acaba947ed6a912ba4ec4a19a79098b4a71b552b",
+        "0xb7dd07f4579a84ef2e5c7a22e23581da9a641272c6f946eb0dfce468e242c9e5",
+        "0x056fe0d46bbadb9bd8a02f28034a79646282f59741032b98fd62568806e725f2"
+      ],
+      "refundTotal": 20
+    },
+    {
+      "walletAddress": "0xe4cbb2c2f55ef34f12aa813d288694d48d9b224a",
+      "txns": [
+        "0x9a3e3092a792e91cbeb29153fee0d6f9b7de6ccf17b53553b3c85767a555fc9a",
+        "0xb00de315abc72085dfdea3eb478180d40cc482baa6144a3906954e33894102df"
+      ],
+      "refundTotal": 19
+    },
+    {
+      "walletAddress": "0x2fef6a5fd637934aa862f2ac0f76b24eea561ea4",
+      "txns": [
+        "0x48c3b4daec4926432261b5e57c215480f20e59b74ecf4d875e3e8c75c679faba",
+        "0x471b183d578184fe6bfcffb121f3649dceda43705d3e06b8dd452e4b1c31d87c"
+      ],
+      "refundTotal": 18
+    },
+    {
+      "walletAddress": "0x5df4d74068a4053f0c7efd0cdc63b59a854ce151",
+      "txns": [
+        "0x9f1144b1238654c03c90a9e2ff579b23076c625597e4701ce5d01fe4f33d4f30",
+        "0x2138b41e1cb64f5d1a51fa16a42147979940b57117b56e64764c64e39dadbc90"
+      ],
+      "refundTotal": 18
+    },
+    {
+      "walletAddress": "0x47fc45ebc303750c4a7fa158252d5979161fd4fd",
+      "txns": [
+        "0xf2b43b8ca905303d97db01930564d99e6818869397dff29e844e5731c7790bb2",
+        "0xb5908d6df104a104f4db225eeb65aae1546cd0b9b1691bdb203ea755d53d6eba"
+      ],
+      "refundTotal": 17
+    },
+    {
+      "walletAddress": "0xe896e97d1ac924247efde4212fa2d74c08757ccb",
+      "txns": [
+        "0x00ba7185b616b7f25358833160508a234aee1c097df846db88bf71187b890156",
+        "0x1492a93d560b1ae4532b74e784bea0dc76420bdf7612b44963cbac83dd579856"
+      ],
+      "refundTotal": 16
+    },
+    {
+      "walletAddress": "0x769f0193aa6b440e965a7c844b408c0289f17077",
+      "txns": [
+        "0x2d6491226b99826c28d4d46c0d7315e69f5949d2aa519712adf85037b17fb57e"
+      ],
+      "refundTotal": 16
+    },
+    {
+      "walletAddress": "0xe3667e131c023528213e11229b40086a6328f864",
+      "txns": [
+        "0x0e1c87ef191fa3a4b001dd70040c0817e179cba3fc73982a285474c470abcfbd",
+        "0x655475c39327fe1f96b3584ed4a84e85a675460c69802e1fd799f941dd07e256"
+      ],
+      "refundTotal": 16
+    },
+    {
+      "walletAddress": "0x56dad3b735da50af7f79cdb2d9e21aa773c81022",
+      "txns": [
+        "0xb7528f2609e81f46c53486b9982f30c03a8889b8e03402bcafa87e7cf50fcde4",
+        "0x6d10ac15a11c4c3f4ed506690f648787324d4731eb404de83a4fceeb3d176179"
+      ],
+      "refundTotal": 16
+    },
+    {
+      "walletAddress": "0x430cf55e15b42636fff18f2340a194a26cd0b440",
+      "txns": [
+        "0x2ffbf7cfa0457d51f0b6d92c350b9782295810dc6044dcac14b5f1348832b00f"
+      ],
+      "refundTotal": 16
+    },
+    {
+      "walletAddress": "0xe637b37a21959e0339ba41fb1a671cd50667f907",
+      "txns": [
+        "0x8bf48c73e5f7ca49e594ca96aef06002f9084974c04088222aad4c5d04bdca49",
+        "0x2a66b08c601981d30c4b9158d60a12034076bbb0fd1ccddfbe579d62284efacb"
+      ],
+      "refundTotal": 15
+    },
+    {
+      "walletAddress": "0xc6b4c2ac9cf2fd68666569156ef125d547edc2c1",
+      "txns": [
+        "0x44bc7510769382521229f90cb4b2b3a62e73baab0f3c921d4a600db0d8b3c335",
+        "0x0532281939fdda81771511bb817a90974f0c9402d744144a0b0d6aa482dedffc"
+      ],
+      "refundTotal": 15
+    },
+    {
+      "walletAddress": "0x75069fde2cc3bad48c3fae4dc5726077e7c56f82",
+      "txns": [
+        "0x51b37e08d5e19320b343f250409b8a7822d5fa3395f6b794ee6cfd2b1448120e",
+        "0xc99d2777d95f7ae504ec4f0241a1f9c7dfc1c117641b6d579f463e364f8b795a"
+      ],
+      "refundTotal": 15
+    },
+    {
+      "walletAddress": "0x8604a3ed607bb8edb6c91c4bebd49ceaf1b1b9ba",
+      "txns": [
+        "0x97c9d23a53cf8e98c402290dd4c0445ef80db012ce7d02ea9c94dca2f1fd64fc",
+        "0x379596906032c8ea253eb8ef84e10797a9e3dbb75fda4c2d09b0dc36845a10db"
+      ],
+      "refundTotal": 14
+    },
+    {
+      "walletAddress": "0x979843fe94933ad71f3fe47e15730335a9537868",
+      "txns": [
+        "0xe3f9ddfb9ec14d4245baf8c573f4ec1b331566dd7faaf6ddeeac19fd3c236bb6",
+        "0xc1b916afd08fb76d50d46aed155ea35d6b880a18cb8af734c0d6313a6492abcc"
+      ],
+      "refundTotal": 14
+    },
+    {
+      "walletAddress": "0x98d085edae5f7eeedf5fa82ecfda75df17677f5a",
+      "txns": [
+        "0xfede905747e90b5f21ef60e499c772d241a38f18380b8cdb86ea9412cf262a59",
+        "0xf60333128041c891cd9a26dc6101613eb9c7ed6d8a32097e7cc8a83d975bd98e"
+      ],
+      "refundTotal": 13
+    },
+    {
+      "walletAddress": "0xb7f3976521efb72c5f065c79dc619a557f2e24b8",
+      "txns": [
+        "0x9ccf90404549fa4efdc52af95f54ab128f3f39ce4eff991103731f0bec714752",
+        "0x292488e69bfec9d414588d6c82fcdb5708867a4b5763a72b1e2f1784de355f15"
+      ],
+      "refundTotal": 13
+    },
+    {
+      "walletAddress": "0x5bf925b2a0b8504be7ee3bcd8aafa3f6a470acc5",
+      "txns": [
+        "0x3bda48c82082fd8e251c04462bc81b0ac7b29cad6128046be8621affcde8e3f8"
+      ],
+      "refundTotal": 13
+    },
+    {
+      "walletAddress": "0x71e931cc27f97abab24f6b3ea63bca3495863c46",
+      "txns": [
+        "0x398ef380b0ab3694da6228441d97a7fcb30b29b8313d4d97cb750e98a08eabd1",
+        "0x2234a510d04a1577fad377ed26092464c4f8882e3fa8070a11fb98c1713f8124"
+      ],
+      "refundTotal": 13
+    },
+    {
+      "walletAddress": "0x03c410d573c07e82e82f59ce05f930018c10962b",
+      "txns": [
+        "0xe4c13a4bcccb4c757b9726770cc8f19ab7fc716e5da88ca6149c73f7dc727b9c"
+      ],
+      "refundTotal": 13
+    },
+    {
+      "walletAddress": "0x5e0957bbf9452fb9ba724fc7beb1463fcc3967c1",
+      "txns": [
+        "0x100ea7b3a43df478692bf3f643385baec3d0c4ad343b8364df47484dec14a776"
+      ],
+      "refundTotal": 13
+    },
+    {
+      "walletAddress": "0xc4495c88b2a8f90049610c9e60eedbe7b3caea91",
+      "txns": [
+        "0xe06d74191afbaaef71e4092f704215ce0a3d320eafde8e9b5da3f73edf4f7233"
+      ],
+      "refundTotal": 13
+    },
+    {
+      "walletAddress": "0x7f3c0adfc372d3cf7b636464f889416d875d56c4",
+      "txns": [
+        "0xe90d70da2c2b60182848c17cab6a602d9497d63cc3283a9397063081ed7a3778"
+      ],
+      "refundTotal": 13
+    },
+    {
+      "walletAddress": "0x7f3c0adfc372d3cf7b636464f889416d875d56c4",
+      "txns": [
+        "0xe90d70da2c2b60182848c17cab6a602d9497d63cc3283a9397063081ed7a3778"
+      ],
+      "refundTotal": 13
+    },
+    {
+      "walletAddress": "0x7f3c0adfc372d3cf7b636464f889416d875d56c4",
+      "txns": [
+        "0x66f5f49ff96378cfc503735583d7b0916900ac5728c7cf07dccc1d2209373c83"
+      ],
+      "refundTotal": 13
+    },
+    {
+      "walletAddress": "0x740d0f3ee8a8b73705948cf4f9fce70dd8e15bda",
+      "txns": [
+        "0x397d27fcda03c30c16140d364c20582bb3fecd086761485492e3598957ec1a37"
+      ],
+      "refundTotal": 12
+    },
+    {
+      "walletAddress": "0x7bd48715ce1da40a2e813c22ea6eb1261625091e",
+      "txns": [
+        "0x4951d41d637bfdf296cc88a934d105af9feedcfc45e62b3b5c70e593dd3acbee"
+      ],
+      "refundTotal": 12
+    },
+    {
+      "walletAddress": "0xd3864cd3f6b3d655d5eab132c5de784391313361",
+      "txns": [
+        "0x43537a3412b64854657a464d8bdffa25c6b5a2b529311eb6f0e2e5ce4103bf4c"
+      ],
+      "refundTotal": 11
+    },
+    {
+      "walletAddress": "0xfb121ed879db00c9983d6298b206570e769266ec",
+      "txns": [
+        "0x5ea931c99494fe8f485c9c845b5bafb79d4461b53f834db37258beecdffe3c2a"
+      ],
+      "refundTotal": 11
+    },
+    {
+      "walletAddress": "0x1cc31271329517b763da8d660cad3de3256e0f58",
+      "txns": [
+        "0xbbd7e4550fc884bfeac43c53abebf560d107a2899716d0bed94eaeab0714d9e7"
+      ],
+      "refundTotal": 11
+    },
+    {
+      "walletAddress": "0x94d8e927caefabd14ab0ea0fdc3b0fa4d318c01a",
+      "txns": [
+        "0x6e375ea2cda73d32117e7dfd9105de119ed896f714e22ddfafc7f4d88981588f"
+      ],
+      "refundTotal": 10
+    },
+    {
+      "walletAddress": "0xffaf66df2a0433c60ff2a3b56ea905aca9c22548",
+      "txns": [
+        "0x197ed299277af1e2ec9160818b17b0d3437c74f7702816968f9c3ba6885a40a0"
+      ],
+      "refundTotal": 10
+    },
+    {
+      "walletAddress": "0x9aa1b93a3e850181b0209370154f905653a11e89",
+      "txns": [
+        "0xb3638404ca0e2289170a51f0119cb091bd0d836d1a632580d1c5f58c7094fda0"
+      ],
+      "refundTotal": 10
+    },
+    {
+      "walletAddress": "0xe96b2432d608d6203417bff25e6bb6963f3921f5",
+      "txns": [
+        "0xcb0c32cfebfb17bca7a191135952b2ed02733f4e31c9b266b12d4419325f4a91"
+      ],
+      "refundTotal": 9
+    },
+    {
+      "walletAddress": "0x5b8bd0e0b47c2c6103abd2bb08e840849fff1634",
+      "txns": [
+        "0x2fbf789674727d87fe5370c486db83ca6fe19e7c53d2769ebef1f1cead4c66bf"
+      ],
+      "refundTotal": 9
+    },
+    {
+      "walletAddress": "0xdc79c176ffff2212e8634a0db81e22befd5e024a",
+      "txns": [
+        "0x86435114c8c2ed17c8b2a8cdd6690229cdaa76d150c6d91f420fb5fb41c5a7f3"
+      ],
+      "refundTotal": 9
+    },
+    {
+      "walletAddress": "0x59dd810644952bc23d602cb8aa66f20ca11bfd7f",
+      "txns": [
+        "0xbeca9f45172b83668ebc8ea8318af5f3887843d6be204a446c304df2e469544b"
+      ],
+      "refundTotal": 8
+    },
+    {
+      "walletAddress": "0x0785ef348dad42faf7c027dbe5c935543f599d4b",
+      "txns": [
+        "0xde281dbb1699cb97e00035476cbd32c7469f9ba42705a278dae16eae148bad0b"
+      ],
+      "refundTotal": 8
+    },
+    {
+      "walletAddress": "0x024f9f31793ce6cd89a95ea8ac70b843b87bc1f4",
+      "txns": [
+        "0xde201d30358515365faf7b2ff7d9719562315d2e8d38fb49556d4f05b2704be7"
+      ],
+      "refundTotal": 8
+    },
+    {
+      "walletAddress": "0x8334f33720a0392060f2fb2638b2de171db7c53d",
+      "txns": [
+        "0x47aaf3f3571a5e3d4cf19137482ca66ba9f15c3d0d3a9d401f42f5e2a982a0e3"
+      ],
+      "refundTotal": 8
+    },
+    {
+      "walletAddress": "0x128239780bdb2184dd9a3f1a756d7510f4bd9277",
+      "txns": [
+        "0xb995f4e20d0ad6c68c4abaccbb83d6659df5caee3be5549d86027e3f434e9854"
+      ],
+      "refundTotal": 8
+    },
+    {
+      "walletAddress": "0x4838c0aa49fc659ac425e775bdc60ca06b846469",
+      "txns": [
+        "0x8f549b0b775ae914955932f0583116bdd670ded8a2391a7e2a8af5bcf4a6f9c7"
+      ],
+      "refundTotal": 8
+    },
+    {
+      "walletAddress": "0xdbe8a352b8ca984f9a044794614ad8cf233a4f79",
+      "txns": [
+        "0xa398b52dec90f685371806f15b7aff5f28a2b71a6171ce7bb1a6ad849fa18f87"
+      ],
+      "refundTotal": 7
+    },
+    {
+      "walletAddress": "0x86a69e4fa797262e9cb539155adf1ae6681a9766",
+      "txns": [
+        "0x67dc00436d730ffdcf83cbd63194e85de15a456da317ecc8fa3d90c53d563d5f"
+      ],
+      "refundTotal": 7
+    },
+    {
+      "walletAddress": "0x431b5ddb0ace97ebc3d936403ea25831bad832b6",
+      "txns": [
+        "0x2101e15212959d6afeb40b80f4e19e699496acace49250296840c723674e2ae2"
+      ],
+      "refundTotal": 7
+    },
+    {
+      "walletAddress": "0xb9ac3bdc086c5773105177056b2a1a77d752727e",
+      "txns": [
+        "0x611c1a02056c4fb39c2cf5f4a0bb4f90509a0a413c267555bf73bd370df40dd8"
+      ],
+      "refundTotal": 7
+    },
+    {
+      "walletAddress": "0xa5a1bd014025ee4b18d6ab28f92a3444800f6b49",
+      "txns": [
+        "0x165c6c9577b2f28f1cca02e71fd7db1e281107af1096e0a6a9a27ed84b3e4198"
+      ],
+      "refundTotal": 7
+    },
+    {
+      "walletAddress": "0xff730c02bbf3c496294d3ef9c90e9a89e8a46c5d",
+      "txns": [
+        "0x31a94a8cb0bec0480013d0a1c959b714ac7280e8a229d454824afb7f8ae8b30a"
+      ],
+      "refundTotal": 7
+    },
+    {
+      "walletAddress": "0x8ba51612b86d81727c10d3fef11c62ceffd1a32a",
+      "txns": [
+        "0xcac09916c71e7168149ea8b8659089258ed7cd35baa3f3fc0fac806482ea73e6"
+      ],
+      "refundTotal": 7
+    },
+    {
+      "walletAddress": "0x6ff52446842e5a490872e92dd502d8a935338aca",
+      "txns": [
+        "0x04e1d2160063133f720481d90c7e0b7e12329d1b3f47702fa0cd5e2dea45b397"
+      ],
+      "refundTotal": 7
+    },
+    {
+      "walletAddress": "0xd2d6f2aedf22c1c1c86006cef77c733b49ffa837",
+      "txns": [
+        "0x224ee17033e1772ccb783af26828f1f2d286ab7ba157a9fad18cde60ba716df1"
+      ],
+      "refundTotal": 7
+    },
+    {
+      "walletAddress": "0xcc749a9e20ec65ddf78704b7dbfa18c27ce71020",
+      "txns": [
+        "0x850980bc7fc25cd23e8a596d05a2b5162583e8b43a0fb8d9c90075d499fff62d"
+      ],
+      "refundTotal": 7
+    },
+    {
+      "walletAddress": "0x6bbc66ae722f3020e9cfd388f2d9322769dad9d2",
+      "txns": [
+        "0x5f6edead24b01397113cc537e705e8046ba70c9c6b83a5b772b595a783e6fec1"
+      ],
+      "refundTotal": 7
+    },
+    {
+      "walletAddress": "0xcf5192500006df9f4ce69eee457122e33c23d5f2",
+      "txns": [
+        "0x7811fefa229c86502dd05ae40862f05eb01fb70a846f881a383bf87aecfb2189"
+      ],
+      "refundTotal": 7
+    },
+    {
+      "walletAddress": "0x47a5ab82230cf701973159fdec1c4da2b4cbb5bf",
+      "txns": [
+        "0x7a8f8c55c342551282729209327250991c34560f6a23307a24c34b27fb2ef2ef"
+      ],
+      "refundTotal": 7
+    },
+    {
+      "walletAddress": "0x2b7db9b9f57f229a3ad23b47a3a3e0568001f61d",
+      "txns": [
+        "0x2f98350a9f289c10e83cb7d2148650b2f0f341ce1d3f1c5a58d74e5405d34868"
+      ],
+      "refundTotal": 6
+    },
+    {
+      "walletAddress": "0x2616419c9feb29e9ec2e878099285136426b448d",
+      "txns": [
+        "0xdf7a602d3ccfc03bbd411302b0cf1c13d68a328de1c1847bb611dd1e4040d053"
+      ],
+      "refundTotal": 6
+    },
+    {
+      "walletAddress": "0x73f2ab5dc5f47f9231149fcc24b3cbbc487d1afb",
+      "txns": [
+        "0x737a8e3b61e10867bc909e739c3f0b192a764b69672d17052c96401990fcd081"
+      ],
+      "refundTotal": 6
+    },
+    {
+      "walletAddress": "0x5668ef82849fc20bf0df36c598d0564e19f91699",
+      "txns": [
+        "0xa2eafeff0844dbc7b00235bf4ca1c510c4903d27a26026f6130f8c1af097c8ec"
+      ],
+      "refundTotal": 6
+    },
+    {
+      "walletAddress": "0xfdbc059b7f1aabb16dd9a833748fb15d6ba482ca",
+      "txns": [
+        "0x70eab31f56dbe431d930588fcbd6e5322d899ee6c2c7cc6e132a22641981898e"
+      ],
+      "refundTotal": 6
+    },
+    {
+      "walletAddress": "0x114183d8a893c8559f02351ae65c4c784e6f6c50",
+      "txns": [
+        "0x30508656a71c95d86b06b4026306d880deb8e4087e6a5ac3ecf1f5fab40e3daa"
+      ],
+      "refundTotal": 6
+    },
+    {
+      "walletAddress": "0x576e0df246e95ff8e0d92a51c60da3b4df384ae4",
+      "txns": [
+        "0x6bb1c5308c267b1bebbf528c72fa3283bf02157fbfb877d1f5391dfc4cadbc42"
+      ],
+      "refundTotal": 6
+    }
+  ],
+  "notRefunded": [
+    {
+      "walletAddress": "0x00ae35928703db0590558def6a034b38d72c79f7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x05f8aa34eb1f40f41c34e829d20d546ddbe86269",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0947c113203459d5a8e6e86d9e43b35690241d30",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd5b7d29e5bc7ed204223cb5daa4dadf917bf609a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x29fa22cc4d61748435c890c1f8e93b57e3691f53",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9e4204de05536d58367ef94e21df89f02984fbff",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x054ad501022f60ee4da7eef17b4cf2f9e715c336",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x70158dfa622855c2387d924e81df70fdba9ef384",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4a116c0334df3f64eb711e0da19cd13256f7232f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3b3f389d556acf95b011a09a0c3fd970589f039e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdb457e5889f4d4c7ed2f443ff4003754582cf7fc",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfca278060a526ea48dde7c700e876765519223d7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x6cba2f2ce30df814bf14898e19b5c8f2b740d9e7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc9420f6b68c6254c285e8c7f1b540c1fb66058d3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2390419072d7959c1db4377fecda86c2a4d91709",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x056497b1847d8a4aac54b4499a4927e5c82d69b5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb6d3f04be93de3d9c0c885c817814288e005f7b4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc9420f6b68c6254c285e8c7f1b540c1fb66058d3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2390419072d7959c1db4377fecda86c2a4d91709",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x056497b1847d8a4aac54b4499a4927e5c82d69b5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb6d3f04be93de3d9c0c885c817814288e005f7b4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4d285bf44bad16e2383395ffd5a37902d19533e0",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x25adb9f59e98601bb8aac945e584d46dd57034f3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x74bf7fdc442c2a5ae13a25063518ff1f66c2f34f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9425be9373a0527540105fbcf1999de8ec4c317d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x77d4b1c9077bd4c3355b6aa0ff450d967bb2a0f9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfd4d9fb26c58f78e7b6d41911be33e4aa4740e69",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc33a02c25ea09a333616bc3cfcdac18d1acb9710",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1d58e9c7b65b4f07afb58c72d49979d2f2c7a3f7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa46b7cc0d58261a437e228c3d36989ad61cb45f0",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x470c2bc4a4dafab95865f86f5686f9c866dc1931",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7d9a272482203484bb5e38b5a47cad675b053c50",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x40d0afa02ff3ef1835a2f7defd85f80f6faaf00e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x60e8fbd2e5df4a7c7a1178dc9a49be21cfe27d85",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd1f57677ef9e0d9a4698dd6266ddd4ae460fddb3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2878484e80704c219fe05a7a2ff98f86a1011244",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4e3b67443fa27e43840b6a768cd7a187ed271f5a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x531e6b973a4c60e56041a54e928126c72be04d31",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xbd32d4487131dcbda79cd3df6dea7d2818f7616b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa053cb0f4d8f986c6289728615e3f117adf58081",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5abb8a0d6e375e55373cfaf323fd790b104e0f2a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc3ce883e7b3f10db53883b5143c0e6fefc4052ba",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x24e32bb964721dfac9dee9e9ff71ac476652e8ef",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd7a20ebb8f5817128f0451ddb7e0abf64b456bab",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdb91cf1bfd0a6c6efbd9989c0bed98e58e21dd50",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xec16004d61400b1a7e3af353ac5121964a12ec06",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xcaf414557308dd59e80bc19d0df35f068ce82b4d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4f0b947c347f8a8fbca7185e365bb837613835a6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb384087b00f36f340ab9af0b5f311b629e3035ea",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x531f001a4d10c21cdcc7dee8a6f25000a1c97408",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x612a94715394d7aa98e95ae508451c85f603a452",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x58d36ea7eb78135399473d28903d238014e08c7a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe5458849ae1f4d44d119312e1a44b298af24f902",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfd7d4efe7d027e9080546d3bb083fb7b94fe5ffa",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x803e406462c2184382c98643615e812a321332cd",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4788b779ab363bb000ef39afb48ef1c394ea7e2e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd45a6835540f1e4b738f95bd8ead1c8d6b7798b4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x63d1277b25710bfeb1e95085262f365a5cc8dfaf",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb9c9dbadf1a9382b22c46eb62d9aa9c7ede5fda1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4ba0ade582b7e412c69f4fb2d479722a9c18584c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xaaa3898327eff7345c148a5097fc4d56c13decdb",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x18e4cee1f89c00e9361125c6b138608d1075d5fc",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x04aad822e20999b426e195569f2818af5a146fe7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa55b91de4aa148797f1fd5d6db6d6b909bdaf490",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x30204fcc5defcb29f19a16b0e118c6a63e957ceb",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xeda48acd96aad08695e33abfc71ea0679ae0fda7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x08640604ecf54b6bd55190acd0317582f229b707",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc78fc97e057e72f3b99988a9c4d27d5925bc486c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x20a632698a216a5ee44ca95fbbe6937ba0718c16",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x77d060f7ec90faf2ad254749aa315f345cd7b306",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x6eaee9923410b16cf2967f9d853cecc1a5169714",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd13069a0b3d4779d07a1085cbd7f053c5b67063e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x80519fc1bd56d6bb3d131d4d40edcd0b2d963021",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x465ba1a17d280888ecd7200bd48547d791c39977",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7036f927898ea18a54831f1d79b77ce6ea2041d0",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2e870fe3599611e72ee63c363cdc8a4f3fe2220a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x05c2317a6d483d9108be0df1240b953e0b0ee9ea",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0fa92ace74a48fa6d7db52124abc6888b4587e4e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe40adf7304c2deba0858b30b424a066ddcb5e7c9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9ffd52f92a48cd65e4f931fa6fb08f6bb8271a59",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x176a0d7b905ef90625dac8fae7dd67181de4bda5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x468d9e49c8ae9598d78fda19374a1dd5b5d93d2f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xca9783c076266d7de197fb80bfb548c79eeeb0d9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x66890f616b03987c49316237de50d9a648486ee4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb4670077b4d680595b15872d79dee61ffcb8b15d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4d702905f8d85b5a336ba910083a1ac6d6b4532b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5dc5aaa20c1d375811ecd577f31ce9c2f38efe36",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x69cfecc77d5c218093a7d2c85d4705040d75924a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa8e35427c5e8819537a4722bee6d31c1170193ae",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb4351e5ae0ff53da61716e8f01a743353d3b61e8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x29fe8e376b08e69dc076e82fc69e390a9ef9df37",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x264827b8dd1ca3ef6afb080241b3d3d8de8178b3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4eadf59ec9afc8d6554bacf9980afca5275b9d48",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8f24dccaca76858dbd40ff771fb9d18127a010c1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xde9b4c5ae603a70a02c9cdc42de4cc0427211aa9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8a71a81f119d85f0750c50d3abf724817b8c7b6b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x402a83753ae96c30a46fabe089e21c20bbf0b2da",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x6a59912cbb5471403d7525938d5ac7668301a35c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x13836b87859ec0fa89247b92863cc130642e5fb2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3257550464b23040299beab5a73857a466d075d3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xcf12f280fb2ac16c93c84fa04be929eb94e4146b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x84ab219bfa5211b8f1fd2cdb9dbf8702c2004241",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x909c545ed09f6a5db3c59b6479537dffdb097938",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xcbaa4a2dcd4b5fddfff0da2a06cfa7b31200111c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd33576e63eea3845e4b307b191765f74cd24a97b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfa9f1af4a4c01d42cd5ee91efeea638c94136e47",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9124f93742aa1fc064d111a6397e6c39c2bba753",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7c632d21c070e53650b108a96938b1cd9818287f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5cf59405bdf9311b5c6e5550e64de9d6cf93e586",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3156f1a443bf0532032760e03a27854acc23f770",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdd839203d23d6359cd85d93a327975f525253e99",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf6d7931715059d7aa8f832f941693e06b5b571fe",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf40d1f282235141324e53fef11d640498f07533d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xcde90f272143b6da14450c1f8f836c4897709c6c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5ebd136b06528eebad8199d871e656f911ba0cc4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xbe313fa0dad98bc6522182870410da983cfaae9b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x471798671a0f8c76421cb7a61c19a992ec362ed3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xaf4bdfaf2b7874318667ff37088cd6116cae9f03",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa223cc576d90c0eb9684fd3f158faea837cf4cf9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x473d8e45a642f017de477de2c45630c85367a062",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xaa3766e105f818625bf2c2df4a6ed0238c69970c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb1901345f1443d9a1a8f1f96916583160210dd46",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfe4a63cab325b6c08f083ddb0b0f30be7bbda8a2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9f7faaa8e2e54bd951cbb9c397a462af31c275c3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9bcc379fe398f15f8165ffca8d7a4155b774c782",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd4ec38ba69f6dd1a21fac99ddc1fd48494ed6e80",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc1f39b99965c3f324853f7f9af92b3591f8c8f5c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xeb0a8cd9c52c533af0d344afe37d1c303b16b62e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x212efda63ef4cbc8f2a94513af51038c0dce0894",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5b5050d75ff952cd17d350491c3f7dbc5428a527",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x53860d6c038e04f0d1241898fff1cfe14d52da8d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb8b58b248e975a76d147404454f6aa07d2a4e3e2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf5def8f7fe91a7a1e2a41f3e56a0414eeaee779e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe3d013a92940694b77ee4d8c7ea57bce986b897c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x83f36dbd11b48264662f8c426d0068ad6075f875",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa12a28e33fa5854ac5627277d521396c1a24922c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa590c9e3ba61680184a5727a7da4e0e2b4a33715",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1d21e96710cf7180ade9780437d5efa0351dafa9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb5fafea6d93ffdc952003a9ef8d02c63a226c413",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x05eb1e04c222761ef96eae8ae0c8f42c2c3d8345",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x706ef3b9616f77cfce9eca3b0dd9287b0ff925b2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf062fc6b74fd722744218306233aaf08119363de",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x504db7223aee2b4cd8809786e3a916bf24f76b2a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7e9d0c13cd882ea92412d62d4aa11bbd09793d63",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x69747664318fa5aa21f178374b288be88ca3f50d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5ff745f889e01a2f877248c42755e93c1e0c4b57",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd520a15edf97abb0ac8d908c3af25664fe91966c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x372bd09b6a924c7d378ad7dd2d4cbd272e2599b9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb2042d811e7f2627dff9d64bee2695aeef071674",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe9eb41adb9a9f63ff275db29593ac664944f1298",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x68354a31edb9690bc44f53f5ca71f5199b64298f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe105eac05168e75657fb7048b481a17a53af91e8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2da3252f4e8ee49821ecb54b5da0616600258f26",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x26e2c7823acdc164609ceeb39fac7307d0788ca5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xaf1149db652f70bcc5b2189de9979f797659e694",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2c4113ffea6514ff91a7697b758128c80f59a2e3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9aee96adf1b643c8bf32260c2f994cc29ac79325",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4066643f04859fa538ba8eaa906c197c57e4e3e0",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb04d5f3a7a124472cc5b0b5af4ecce8d9630a664",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3c83fd2cc490b608aebdde452a84e0f6a5514979",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9877026717be95c2aa1d95870bcc4f20304ce0ed",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xbb1f823554d8f62804686edda026022db7454195",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc539b4b6d0b1c9dbe0ba584f9ac7de76fb3d47b1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x57fe9b29819d763b3c5b4c0896a8cdee4e02dec7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8384d3a4c6ba237ede4231a5b690eb7a3e8b2f45",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x78cc766c34d12a85a5d11529409c8bf3e9aca1eb",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x83a2eb4d19f64e11cd18bd1b79f1fbae0aece935",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd3611e7f27c9bad6d59fa24d5cc3f071dde85992",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf29ec84193e399253b8bc86380c4dfc9bd569919",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x56f2c4cb8518d0a4ec749593df574f7597a36140",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa903b9a228fadde595b9bd3a8e570c65951ea2bc",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x23654727548dbfd9e14b9a7ee4d812e27dc8bf0c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xca9713ba35296abb2fea421173e084129d62b44b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2bcdff83443727339023681b2f24cf6233a1e083",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x82a703136a47abbd37851e5a7fbaaacfe71c4fc7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7882c5238a55b53e8f8ca63876b3e58a37f58d5d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc28f85d6a2cd2252dac06f3db42a17033c4e7791",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9ca26730aa028d098c52c3974ab89ec81c74f56c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x999a0a466b41565790a816b4d0a627400a134f5b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4fe20b08879cd589320425143f5ce7dcb8e5b0d9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x26663df4bdb9983466fc83cdf527c973f92428e7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x963571df569c2bc7881e1de65e450f97dca9e879",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf8fd06f6af12cda8fffa0ccc62eb74f0c017addd",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4c1ac1db2615c396409dc85486aa89ee951ead91",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4dc68b875279efb0d0c1c3292d79848af402c0fa",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x18632c72fe524a8741821f5ad688c3d12cb71e69",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdb4164e797e39b849b75b0e9b08bd01b0cdf644a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdb7972ce70fcdf03eea8d3e841601ccb77db4a43",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd29e8142d4be87ce573ee4d466c25207d18a5c92",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd97bee1036280af4f36f87d287a3ff4e64f05a7f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xde8f9d3d4d8097ce23e0da2b12524c27150090ae",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0be46eac17438a9e61da39c174467dc09bc41e32",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf81b9c9c452dc3397446a3350eeda73cb5ac6d74",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1fe1ede17018a525ef79f9040b48d473a94ca4b9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x238ea50fc1720915067f09d8314429da033f1374",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xaa4f49376f4caa399645922b322a6c1ac5688b97",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x81c4a126b101ef7eb6d54bc0d6e88465c265bd91",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd4756824e38d2d08938e26fb46aa3dde1826d922",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x50ce537ddd25763d7c914262c1794f6bd900c902",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x806f129a209ae59509db1a2eab6c512b60d26202",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x348ad84b6ab8f4bbd2b5756a5d0e20967b5f4b88",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdf6dabe38bedf310831cbd1a9b2ce097d5b057ce",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x81b58aa14c52eb83089d1a7fdd4139fde828c2b0",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x66998fd6a11f6a13f6e8b82e7fd92d839c6db0f2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9b7a038d624a8e82e81fa2e8c7b6622cf33a4edb",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xccee88812bea9ba2820afa1737e25771988d57d1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4b3dcb59afd8b43b5dad446432d21a26ffc54f19",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xeaf70621ee2f36c87f8c03118d848002101733e3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x44a1f8c7b324c8788afce6ba2aab676dbbe73a39",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0188f0b3a6af4b3782e59376c55ca091344d5f0c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x72b20d2588f5b7651e850f19645b558701eaf02b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5d4d50426f58e9d778d00f6d40e6fa48a0469d5f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2edeb58f1d939e0c39d6165d24306940b17d74c2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xbf200feb58a25be502b4755a139812423a8ee723",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf4a0a75851001dff6f652b3b0523d846cbc4394d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3e8dbed1dbb21ab3f537ea30e57dcbd4729a1289",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa7f0b9614ed0b5fb5050783576f8276a0ba1e8ad",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc8a35f87edff1fc036a2c698573aa6af93761f79",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x632668e883aca908133b8fb03c7bc3601dfb5b17",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0b19de07c7e3649c72bed24ff311b4c0dae1e458",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x91675e2e78c3a80b2465f97259b356b9af664c84",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2536497e8e962f7bab6ef7a6d211e034686a7c04",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7f6db4f447676d52cc2fb2d3dc36bf4b33895759",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xacab7fda82e26f0ada88efaa64050d2f04846a4f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb1532b62d69433ad7f97f904d1e2c8b33081b502",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd9d9070dc027de901da3a091c882bbc109458873",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf37d84ebb2d7bf7a8ec289b943998e120e5c362d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x34748a30a62b6f3d4cb5f058cadb5bfbc2a33aa8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdd441d2b503233e7baf0eebdd1a97da6f9a5a7e3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x72aa4850d323d365295cff7c98cc2df013149262",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x67231bce0580a2d5f4eddebdc5e696c31dad50a6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4044e176e1132bba17b7fde5678f312d8ed55cc2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa36c4e9ea62579942df6b18a891765b937275edd",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc3506d4fd4b96a1f0794090118016e7b9f1d8dce",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa53f21a36c680f5a4595204467e50c64a5ea29b3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x64b17324c9e0c12a35894b117a58c8750d0b1232",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0d868aa2b851f49069bb24a2412b56ea2686077c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x080507d02be586d1a7db06e80709de161e0a48d6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xaf2645ccba6c7c7309d917023a1857bb6bc131fc",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x746dff22206ce4e3da6d7eb4d537398be8f236d6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x54b079c4949e69d3639b784c8a68b02fd7bca892",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x080507d02be586d1a7db06e80709de161e0a48d6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xaf2645ccba6c7c7309d917023a1857bb6bc131fc",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x746dff22206ce4e3da6d7eb4d537398be8f236d6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x54b079c4949e69d3639b784c8a68b02fd7bca892",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7ef1a67e2796ade38dc28cf5981704bdf0c1ff8d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa29b8a24aede6e20ac4faefb7e45af34fa704ea1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdbda9cfe26fc3c9c27954992ecf810f26f6ee30b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xed071c471d22d2d411bec39c4390fe1d40480e9c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd720d98c7d8345a00962a23d83afc3f5a3de6d68",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xbb6ecfe281094a157960a1011a9f1dd8460fbd25",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x32843cb7d41d5db861c58199e0fcece1bd4f0d0a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0bd10b99e029e5da758465ed95667d31b23e9e5e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2418fd83e6b2beb7a48fc97fbfa6f53568b65dde",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x490f171b923cfbaa24d171d617a33b907dc1663a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x835b61aa1702032a9839d90d9d1bac943c2be90e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe23ae6aa3730e0b159ba9ea9b1d0d28c842f4bee",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc71b7e95fb0e4d8e140c3491785ca5dfe68a11a5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8bd7166ae256089237e309ab67017b29682dcf2c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf0572cf1d5acc21bf5154b88b6dc758c12fad226",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5f428cf43384522d437c5dc94a8f7efff6b5cbba",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe34b37e73fe56d7d698a2fc71638cf9d6735c910",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x872bc729c674c03eea670db3fe8b97acabe66b00",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x6dd1acba59ba041d1cefd752e06768ef7f4bcaf6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2f398619d3cafa96bff6ebccdf4ceaabac71c554",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x88b934a38b4d1f4c55ee6420655dd298122d10e2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa342a359094227bfd7acb83747a8146348898312",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfecb983b225e7aea13ca6063fbef890ab2c05b6c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xcc7f628bf3a3ecdb1f79acd2f71857b1dc3fe57c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xaa2e2f14414dc7f63010035878f22a9c0b5b5eb9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9578380ecb0bb6e546c89fb595090645f8abffa2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa6f41175d078db97438b1b8c3ca744c70628f954",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xce0a9468b341d1ea258ce34f6c13789d95ad3995",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x129e96e3e0a3dd80f2e8f2d88d24cedd7c3ef689",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4702f25d0870fb2b3efd50742d93243f57b7262b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x6fa018f8290b9db90c7b138cf2d24fd8235e6838",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe1e3b4c6281f496b642b05c0f741b7f4d9c0423f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x418799481306b84f26bcc295341fc04a1a25703f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd59656fa517bd5c3dc3588ff6b1dcdb4228139f5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4e258a2109ce57e20ecf619742d93e9ca3ef8a1d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfd46d36bed5f9b80f7e02b3401170e92778513b5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xbee1fa6e829457e505196afd4c97c02ea7d91451",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf6912d7d9a9b0825eaa8086ec157de8d42fb8264",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xae43c3479a434a56f67938e650f49c2113a9a76b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb25bbbee8d58015a5415ebc0600600698d1db55a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1c890b3579a75f2a7ad1b24f1e17472870908959",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x581f0c62c50323044a391ea9cbf4ad69390bee92",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5a33c889cd717e45b63d0f99cedfc2d85e833b9c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1795bef2503632d3e477fd998d6f3c28b8375d2f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd67753e08a146eceb3181df6fce46f385dc8a4a5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x86af756dd15bf4b016794c684e776860b73e9611",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3131c4dbce3747a0bcd91382c998aeee84db505a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe7f4b40d711348e447f5a697f35a2c06ace05789",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdab277c96ce5808364c177fdd538c6faa7643888",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa63729cc775007883ce853460b0db54daa1f1ee1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3b00be191fabd35c1cf5f236d430839d1267e8c1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1f4d7b51ec67e011780f30273c064272293015ce",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb744f2324b8b233fce6553ec40c1b07bed92d16c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb3398524b3c4e0fe25978d29e0bd3c54c1580483",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe6b06cf6f3a9027abdc1dcd97a2c562856b2ef99",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x45220797cde88ab27fb0fbeba904fa8e5e5e9232",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x68f077ed3a9c7c77dfbf83c8dd10f88c4d2a7443",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4982a8669c695b143d59f7779b0d364ed87910c0",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe284abad43df60898a545ae2b805cdbbd53fad40",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3abc25b7cf59d4777179479f98a84e2cbb8c708b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x822edc9c34a9221656f3990a02d7cec6f7d0e88a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x63026d769f7d45fcbff3862e4a7c47c4defb4e29",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x224bc9fe2924c82aceea6b3881c91ee262ba4aaa",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2c1ca22f94fa5fb295b8f1ba39409ed10f9eaf83",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x194feaadb5972dd0451baca1300921c730062e77",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x89ec941f01eec9c8d2e1e924cc807ca4a1233617",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xbb90601673e54d2e3b15fa3d954f427ab6ded9bf",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe68277a9bb66523232308101172c801521c9b213",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdb28781d22f9743729c6e45a8095029684800b10",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd7e7436164a9f27c506fb03ea4a65fe381b70fed",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x49146b8fae33d464f587bd2bbe64cda7e44d910f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe545e578aa95c14ce7d24976de9de7a5ecb12c01",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x447ad69ac69481deac18e1c9efd5991b3a76766d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x50cd1c9621d8e2cce52aca16cc8599f46f813ef5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9def47dcc9f39ac9a8662749bc35129fbd2e8914",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa8786baa07a3e24a208b43909094b3d26288afd2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4726bba4f416d840b2a8ac775a6a5d8981fc1dd4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2e1df2beef34a062ef8eee9d156213151b0ae0e7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfa89f3604e59fd2a4401c9d19fb0b561ec122194",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe57929669c313421f2c8eb38f3d9fb62a902f5f8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2461ed08ae562e3fb84c35fc06d633171894daf4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x705c9801525ee1a7deab65808ce677e063241dfd",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x768e6d3fd527bd653be50b8e8fc83f42382bc71d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x56d05e695e27437c51b9557da31320042722a8c4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xbc05b248016473b7ef0d18e4c9fce39449a9ab5a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x350a68082a115e2e39312a89a65cbdfb14605aad",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xbffdfeddfbac07b3f607d3dd72f9fa55812a423f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x36fa4a7bad322e329d305b588c091a407a65e79c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb1e60ffbe4a9fd8c19a9915e91f99296a6d668c3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5d31122a978e6bbe0c1482f7ee9fc4410eb5e526",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x174fe2068ac1b8b46a93f7a68efb554705f6348b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x508835fe6ad068157d640374c97f75e1a54d2827",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc0a1401d252534eab48a9ca0e550a2749a4d0907",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb743f4a3c5179a373466e4add3e89b866b59a1c9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5ec904f0b3e18ee374fe05db5e695ef8ac5a5315",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8b90926192d44f45eb2d45de489f8817fbea26c7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa6a3f09991dd5fd99c2d72528948e6183021b5db",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb359635ca56979bd9fe2101827ea7ddbc8cc14fe",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfc5480d57c7dbff406bc8ad7044bdae7a8fedecb",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0ea0e6b6768ba1b223bc81a49ad68b33c81bc61a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa194f44f453913d703057f25929688fe87dedd5c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd325881a77c2c4ace9de0323e27a7d562aa3729c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb26ea1ba9a91f562f04ebcccf34d6363e70d58c8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd0fc0e48333ecc75961a36253e17eb2d5fa2d7f7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x207401681c85e336337d3d6865f42bbc238e9f38",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1638f351a11aeb67657b51fba258a44af589823f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x983b1b65e7eb909d74aacc5b96654871df9822be",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x70f2232d700f6faf95be261d52541a00f9dfcd78",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x10bdb2ca246d5f6ee9916b8c6b035e8f8acfbad2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7da23bc4a403cad82a8ffa90ccd4e15c94850443",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7fd8f3dd71324c8c4a6a81f9dee6887e8d4a0d36",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb6a0fb955fe06d66987ef8d5a7cdd4534c48388a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8e5bbfaa9a557ad37ce29b515a54ef58745c1511",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x82658e0ab5fec5af7bbc9c6aa83db8ead0698e7e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd274b82225b76e34c551c7462c35a1d48eccd184",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9cfe7a654ae3dc46a21a0b347849c1112edea478",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa42d32b50275415d3d02c9f28bd5d1310f2b55c3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x65803f0dacd331c22ac531f0edd48be7b73ece84",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdfef3eea684b8ed7ee738a64409fc21a5f9cb6f9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xcd2ffaf0bf833eef3b09c22756a52701f035844a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x25a4fc473ee3ff745767d70e9b23fb6f4451023c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1d900608c195f76f746e793cea49394913400168",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3983f90047a33db4369259fae42f13429fe46bb8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1a3398346b8df0f28629431c1bfad21dc5ff50ef",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x90ca9e195e2fe36d87c65428ca70c1a16d4d0f11",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xbba02ba1f6bc2a13fcabcf47cd317be094f0bde7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x478823481aca34dc44518a8ed10b93a3be1fb5d5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf8875aac56311589b6e0db9e7f298a2de1e1b473",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa8dcd52bebd7aa14784174a0b72f48d4bcd857bb",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xeefb757b6742d7a1eb7cd32b8a460bdd3012de3b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc0df696267ec71523b79ca50c0f5b3ada95978e7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x142171b53848996b78b6c9c4e676d0230952b202",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x26edac386ada7f94bd2658f256c484ff5b2d3500",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xcb86c5de5260ad0ab52765d2f84c75c7026dff32",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x30904c6e461a304ddd713ea3c38895005175159e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa9cd1104bc453656730be8ac301846315c5b0f56",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7d64738e9674c0e1bef122d0a29e35f3944b036f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x854bb70141a500bd835d57943ca6947ae23cc711",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5dbc4c02722cc200b346ce70a86f5dfc5c5c4cfe",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7dd465902e4a64723a52dae8c11c0feb2412607f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf2600daa361b56fda2c230764bdabd8a20e2170e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb1d61fb24ae6d313414dc0ab6cd8cfc3c8052a81",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd0c3a1f74c0a2aa2af344f75c9670c900abfb581",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x61f4fb2d1c9e66eaf94b2fd05914cc393d5e7e60",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x50fb4892e3e89e6ca5d7a69f689df0d40b72b506",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x36df125826c1621d3bb67760ab99a2d667221dc8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb0877c7e049b7ee204643c9998705c239844f3c5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7aaac0d5b219402012d6f43111558e7f1312936e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc10c399c776d8c5dee1b0bf9e39fe8e867b4b5a3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8e1bfe96706a2bb4a2c2b905a07e9cad6e07508f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd14efd6c2d500ed29776bb4540dbb4a9cfa024f5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x271569d9c77919814a3a0894c1ea01437a7ee2eb",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe0e363deaf50d57d24213e8c99686afa2d86ec7a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x65f5b18ac329d469c0d218dd350651cc6152b784",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1bdb6022117cd9c77885b1c97420522b4dfd04a6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc12afd1428d408dcf790a02dfa31b728cad93521",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0c8f9eded452d6510c4c6a4cb623e610cf75d250",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x07545af99e7c3655aba426f2044e4eec604ae66a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb8b88218c755f542673a21050b8fd66e9ec135ef",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc3d5e8fec9818ad26c8fa86d4d542b5a07b67ee6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x39fa9c5d71a0ecd684b6ce62c5ee897a6d2874d2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5c76382c4a883382c6cfd61b49e4b93069302195",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd2d55b33dd5437e36bf696a17348b1ffd3e1c708",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x099558391261c7e0594c1e92e6fe466178c22475",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4f50e16e5e61ec5227b851ad788fb0ffaf2da070",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0d67d55a8ca90bb3dcbfbe5a97214b4f5205c395",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x38169bfcbb17bd0dd2a9dfb59b68f54dd72c1852",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfe3f16b1cb7ce908b5386f6643a691526d2a0a84",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4ac49be47dc8e84238159a2393c9cab6910cbe5c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x96ef367fcb0f699f8f08370bb8cba4ec21f2ea54",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3e2771b5f8c884bf4a928fbcf0cb12727b0f3575",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x88a29d5f8efa45321fd172bcc0d5473c80e28c34",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd1e7f97a9076570731ef18c72a668b567e8a8040",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xbe9a30999f1c0c38a2a71703db94b982aa818cd3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8914a6dc7be7d1580d101663dda85fbe17e68d9d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x85e7e5caf0f1eb9f1cbca6233ad659d276a19f9d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x215eee929ceb899d83dd40cc70823db84e2565cb",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xcca0743e94e8c389b2df4f98bb3bfd26ab50383d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc2606cd5ac0a4d19ccbe0b109cfcc8ca462d1922",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0a5435febcb27fb4e2682a72187badfb4020b120",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x106637d995a6f6fe119bda9758df37bb39c92a35",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb45108ce7a0e3a458821dcb06c18f78319a52dbd",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x67805c2c6b1aa45b9d285df11d279672e061e5c3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x6a10d7cfc8845b8c921205818001a0bc2b6c84b0",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xcff92c895265958fc2f74ea4dcdd8a4675c876b0",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1631cd5a325975bc69ce8efd615e453c57d1131d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x18f27f949a7969d0d7a514c069e219b68d09fad5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc43d2e3e4b74e9d5e80e46b4f5ace34f2f3857a6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5bbcd6b2f2e2a71f34005082348332a29d1a60a4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf4e04233ab8309a25eeb440c44cb19d3dd10c6fb",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc6f84e7142eeaf930c62584f45ba7106bc3e2d68",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4815235f03a7b42e58f101abef6bc245f2bdd71f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa88cc072bf7d7e4ca8700117a5aeb1656797f93b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x95da4b390d567bef95fe9923916311300fbb6271",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2caf66b4470d4cc7e41999d1b2a6b782bfc9d93b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc9bf36adb52d6b3f545c5293a9543f6a357177bc",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf765ebff059218bc7dd602fd273eaf364fc4be02",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x42d92f47b041aa26bde6025268985887a9409770",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xff4ad86b31b45af0f4f9f3236843805bce954d57",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf765ebff059218bc7dd602fd273eaf364fc4be02",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x42d92f47b041aa26bde6025268985887a9409770",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xff4ad86b31b45af0f4f9f3236843805bce954d57",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf971ee41d61ef9b33ef780690d4e6ced6b8f1f2b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x90934e6c994d8d9f302ab58dd784a998304e6fc1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe07c0f459754a0d37a234b22ef8461e0e819f930",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xaced9bf31d162e347b00d086557e9e301981c0f8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4063abeaf57b7735eccf7481037f6a2d8678ac22",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4a29953bb2a8d7150a6740ba5849ed54685bff82",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0f7e2b1b5270db6c83ca45d7967683cece062587",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x79db315a59207412ad576d410961839b3466c4b2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1abbde6b934ab3b2ec1a14f3b6fc4a92eafd8f00",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x06369a45cddce737de34ec4f117e9c9c2b5215b0",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdab1f73e05b73aa357640b46391c4c0fa8480322",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5f6ad0b7b2696cd5e1a0dabe7b81de5a3f423f68",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4e7164b6fcc4e8f5b267b4bdb0db8f34b9394c0e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa5eb4201b9bea6af5eb9c53cae4b9c3985c1b035",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2cab1fc9c4db8dec46eb56adffaa7b8c262e0e74",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3ed59ffe83adb0a454d7eb18c81145880986ce33",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4dde991518f617bcb5d2399bc5d7ceb82eafc65d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x53a918e421333be0855229ac80b269ac33f975be",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x6a22aab92228200fb5983f791367178b964559a4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x29b24560af2670cb50e405d1d19cd078fb8ade42",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1bf1cbfc399560a2ce254bfd04391d0093701754",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8e53c1d3bfd53ccde09d88a715b7246afdfc70c4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3dce6720024f9cf835302924818f155acc543575",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdd75e2534aca59eb885fdca4a2f5879599fd6f99",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x44260313b3f3d7c83caa3c2f0e052f2291b4be03",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x79a3b77cd65ac1a17ba9ba0040c2c5ae357a9497",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x74dabbd8d40b0ebe81cd6281bdb9c648fc55b09e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x469d3e86fe04ea16cad35981fedd670ab90a0fd8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x6c03891fd0b134c62902ebed8f6e3f62033828cc",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9df85695cb25508e04c05f43c586eeeabcb41735",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1055da4157405b6f7c7019f0ccc953c29bc4226d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x12cda495416b7ac0d7a089b03f9654470e48c654",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x03d720a19c0d4707408ec7c5d7ee0d66e5471d86",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2ce16dd32929d5ccdca2624e9675ed97e25b79a5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa279f0984bc13d9607f8cdaa8a867da98d52dbbe",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x304d6c5ec59f12f4239c8d03e7ea0d5bc1706d9b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3e7b2f0ae5aa128b16fb34f573cd607ff090cc63",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4bb48455f87cab04d19b4302d989baa7eafe82be",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xac58952de3ff4711790c270637965dbea457f249",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7cb4f860cc07cc549fc589705d7ca29108d2a474",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xbe743ad22873965c898925b8195272ba12102000",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x037cf15047c02c239b929461f75b352e1621d305",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x376d88fd14f651656a94d8ba8ee96abec0a12867",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xceae4fcd03917d417389eb0fc96ebec1e89414d1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x41a07b207e4cf1926b266636b0d9003f4a76a7a7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa95d9e85cea32d1ec50474ee1e8be6d58687255f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0d9e5dfbbaaac959795ac8e8e2af48918cdf698e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7649a51388c6b2896eb025fd35752ae55c754572",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3ed66a594d77f421f4d785036432f84fd742bcb5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5df15a840526d9803c17975993f8abb269ab13ed",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x37437ee4aa4757dfcafacd2e86a2b9420b2d1b35",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x404adcfc8aca050414d11cfb8087b2e9f58ab6bf",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd3498e9c4bcc64f4663c84c580522f5aff3faaf9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa1910c61a0fcf76d1f6ac014d3b87b943fb12021",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x6a8c17de8448e25948be42e3a505815145b5d7d0",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf7d0dac5766b5960add6885ddcb73c9e0dda9504",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xba1d330325e11528db24f2bdf1e498e617bf25e5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe13a8a33b7919bd0b7eed1293a7c3d02716b1b6c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0e554cd26a9a2660d77928b0c81e36af934da80f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x52d98a66a7b3d731ce433ad326d542f1e9e738f9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x6896fe3f112870db0b1b2177dfae5b3e6f73c327",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xaf86fe14d9989b96903bafe31c8a224ea70a6f87",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x74c66d8ee30072ebd1287386d3df4d9c5c46127b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x71efe57f05b3b37f3a089e13c2ba03848392c8ee",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8f5232d86f73481eef780f999c0683ede7058d36",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xcfedc8fc939cf7e2e002a2d3a414ee39165cbec2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5f33bb9707eb984c1044eb84b04c4a024e8d7677",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x78a39fa06e738769e9f6686699fd21cb0d54c4c6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf86f2f3ad6f9c4217fc90f02835ba5b164787a70",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0a80bada962cb60be2d486b58e0767d4b32bee76",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x66171514a3c633062dad4e42c9fb68ee9e3a8f6e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x66b56fe8959b61b014136dcd82913386aa6ac32d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x560308af1b410e9c626efc92c31ec1ea593213f3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x726ddc220ef56158d99e0c63a7b3dcdc06bc814a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x227eda96c938c130801632de036e36634ad2bad7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x42adf01113d392435356be82ad50def654972eed",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5c913285dd9421edc9d8f1000a35d9bbdf0dcb62",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x25c49a711f52bd9a5369963bddaa3242f49232eb",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x75e094cee2ddf4ee04f782d9670eb6dce88dcc98",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8214a098a422da1fb2723b375203404625911f57",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x656058fe7eefd010a5c93d5fd9a74b4cae86150e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfd5b8c76335be80df8894fdd2e0b8abbc01d90f1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3ca500c2dd2cae9289c2151c75b2c6c4745f23e9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xeec56cfbcedb08266ec6e0b99bcf5c0633e75489",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd55b507d97bb0441623453ffe542c63594025124",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x157ed8400d726311eff3dd0aa2236c7b4f6e9174",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x6f733de863b3bdf5f88561dcf4f2614e7af43814",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe33f0fc0d3933331b819fd618b4a4e34fae16ca6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x021999ee3da6d5d1999d53ec8863f52c6d797d7b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf774f030f0c0573dde70e85df8ca60cd26451657",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x706e65894d67598dc1aeee1a0c594bf32d1aec20",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2e602a3a19fae7c89eb700a14ad8d24c91e275a8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2f89478960d5ae61d56ee55580af02dc449935ed",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfa003fcb52d3a91082437ddd69297a3adf94893f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa4e63b91a40d6181d4ac40e052af64a96c98667e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7aecbdda4a9f575065fcad20741a10266816c0bb",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe475b800d4e5a37d269c4a49a107f15b5d064dd1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5e044e9d8c07aed769af1c29c2f5b632b3f8ea44",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf2808e018e389891356f1ca4be1a40e15f57ab07",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0e1a731277676b633bc0d8059ac308d00c3a6c9c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd27a63db28a7163dafedf4427815fdeecc760ec4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x93ed0385744d83e6e257a72ef993f67f4ef263d9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xec704933e9f98bf82a562ca42b56c816d1b3c8c3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8b2b0dab4ff6d6ed7bfa58e3e02406e67cb1f81f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x43486bdb26084321366e033d7df02b4811373fd1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xbc64c1a313c58a28582b617fb95c317ba954610a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfe12922b88257c60925c55538585db85be5b6658",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x04a475e282f003d50c2f58344dc74a35d602be55",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xddb5e7ee54b0217f7f390fa58dc9074a9528e05c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf75727cefbae92c6c0258ba54c17c6dfd7471200",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2593b800f5c3f1d29c30c626350eedb60a0d2655",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xed10ef338a3197075000ebf3ae08c1e591a88202",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb89957b172d6a34a2ea628827d6e56f353394207",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0f7d6ce97d7b36aaabb8d6b07784ade3bdcbbaa8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x959d5bf5d7b78930057c02283df4ceb388bcb956",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xeeb15b1d792c97a936aee8849ce5e3e01e305ee3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xac5a762cedbc4afdeb1ab16ddf58e3c7b07d711d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xcf789f69b6ff311d6681a1716d6be4400a9224bb",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x571b296ba46810568d08eaab282dce58345a4e83",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb167e0654d6f2bc68b2782dd551a997ef6a038e8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x53b3f58f21b4c7dcd9bea4324f3539a443c70e7f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x12162749d6cbdecf8063c35f2962ce9187476df8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2347e7ae41a21860710affbcbcfb4df469e76e40",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd6fe1af4f8275ad452a0da180f58fa59966a05dd",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd8d65b6a731e3f92a984e23378da8856dca4b86e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2b03e8ec5b4a2cc4f64a3a6b4e40a88d589a67af",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3821f6da5e5bc9bd9c2c627b6f18c2a900a2e44d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9a72f010d63b16accd419a3a79f0fba53c42c468",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x6cb2958fd9cef4e8526f6ec2f95ee42b4657855e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1478918d4f8bf5ad9a95c0a981113e9b9283e2f6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd7d56cba9aa5493f26c4457ccb8fa006e98ff87e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb9eba74a2b451e67e134305754da97585dd8c68e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8b399b0fbf28822aa8ff53a3cc4401322521176b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdb10d6d3fed30188d944cd5704c572c08c5a36dd",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x03bb465b3b6fc459572c16de779759b8034f96d1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x83dc655194a99d81587445990356c120a9e04b0f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x51dd253e2a2a58b33c58d84d0f4f2ce941ebc26e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xce175876ad12346ffa7dbfc53343ef7af507edfd",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0e783a3396f335a398d558afb749d6a3673ae838",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x83db6fd6c08ea8791049c44ce4a60b1905580e8c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x10cee5e5342d96e79208f15d28766cb0dffd1c90",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa01e875251a5cccd911e61b617df02950fa0060f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd370b77e916c9150b4ea5f5468c0c71be7fcee2c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5288fe3d715f7e5b119e63f10159a690d268b265",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe7c9bc0c5b27b06ce0c2336a21ecb1164d236369",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3e90d4c6ac167246e624d0f0596a5acf3287c4ba",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x38d7df33147dec78e461450f4d3b0b787fd5265b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9d53b8ddb591e2556a0e809cdb418ed0d7fe928a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x55298afb2246eb3bc67af7702a11f357c31214e4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7609f97fc1aad7373a579535dcb56540918f02e1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4f29b2fe2f29f996b1b3eff3b3a1122050a33f0d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x12603444f0425b223354284b5cffe2246db0ab5c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0301375ea9828b525ca2a9bff994ea8fe1a72427",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4e9f6eaeadccb9c6bff98008159eec210e150491",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x82af97a1b38cc2b50bd6e991c53101388b223e64",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2234ac2345145cdf68d28fd7b592753355e9945a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2a5ed9b0986b47ddc412842e3f5eab2b10fde9b3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0373dc06fca5425fd8fa5e03dda2165dc28d07d6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4cc5d8f69608fd4f773aa0e89bcc1c0d4676c9d4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x96d0df137c054885de4c6117c04567248532f9e9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc34d5243b2880cebe56dea42c66ecabf4956a276",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x6b5ab1de1e3d88c5da484e838364e316856b485c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd78308d86570aa34020fe8459c5343be77e6191b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7aa5dcb1876524ea2edb9364730146cbdcda798b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9d057eb72618efdd304b651e1854d1ad82aaf138",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xbd8bdccc0245dec8c0cfaac20d028fb6d012d41b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x46f69fc70ddcc364388c98e8b306c2932b31c8b1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2827fd12c8d72b45a5caf949cf0d1512c8da55a9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4098fdd75bc58751e7ef7aecd934d08661e114bf",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfe4a794c1c8fad09a665573dfb0dc070833f3b46",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc069c55ec977e3022cd37567845983707fbf83f2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd2af61863448e1847f5f65edf138b13676f23cd9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1c58193fd4edb677b0b63e68b0dfadbe52b574b3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd08144a2c9895d48142a8af5130e729301846211",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8d56a3223c37ac71bb72cf4ee5fdf3f7b5b698c6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x22f63a41c72beb2acd0296d289572c642a9db7ab",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa9d879d3fefb55baa9b8a421f8063aafd6b2c49f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5a52334ef8d1fb27524e9b86c36b6e40d598e1f1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1fd05325d3236d4e07963195538b75636abde75c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc08b970cf9169cb89a831bb5f2ef92988ced9fa7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2d1569a034570bc0ae34d0f22eb92fdc165bd698",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7dab6020b02f06b1a402c75233f70ec4e246e471",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x597b784c2f69a7352fd631d3c00d2191d5a313bb",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe96b0e96703280636eed1ea7f2599b32233e5e76",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1d0adcc97f7bb8af13e2c9cfa9d6595d44832a11",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb1776c152080228214c2e84e39a93311ff3c03c1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x66d3d79665b906d816246302d13c497385f2d8c5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x728c1a5593b8bfbd541087e587329de188d32d25",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0cfc53ea1b325a4e58df8ec7f8419c39713d136c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x72017b210f5a31f7e5d0de2cce6e8d20966fe1a0",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7e3d4adfd69cde752831a4d0147328eaf5125586",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x96ecea23d874936dbd6c557a5ed22368564794d6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa1517b340d055cfb249b0a24ec0c750cf64514b7",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x278f8f1417363a1ff5ebc1c47767cc38f593ebbf",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb5099ae5c2528ce6eff2cea8c9f5febcfe154185",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xfd67b7cdc1d5a5d56e205dc7db13c6e59952bfe6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x8b9c6219e06c6a0f624b5eff422a15f85745f2fe",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1b415fb32f27211123ee1947b23f1981d2fad1c9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x34336d116428e7dd6ad2e701acd6e73cba89be47",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1c13f3130b8dcfc7ebe817458a4d09a7f4223d52",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x88c029c30aaf851e808eb61d51b518b6d1dff403",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x795d08755d82de1fe09805bc1c53443f02924271",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xff247bc5f3ca982abf83eadec0fbe06a7bdc3723",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x077968da48718836f505319af405c5b01c8b2029",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3caea90c8195c3ff385251d907bae8a4d0d9c7ed",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa8257fa2c1df9bce5103384312f62efdf875288e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa27c2f691282b39cd52228d12a905dceefd6ee18",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x4cdc68367012a81ebcb9a60aa3e170b0bc7b3cf8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x634917b41527d69ad20ee8fe35933ac08182aa20",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7bab5bc4c2f709541777c737fe02b00ea032fba4",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf7e4b6e5b2d188a9a46aad2813f91bed8cb69876",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0a6ade9247e3e2d1e8da205ccecceea9d3116e56",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x05eb8482a7f55b92b893d16dd73e63db338e690e",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x52d616c5ff87bf84a85fc02f883eb169df58b4a8",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3842468621f51910d363a0874afa0a43677ed626",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc9e81894e1eb342b913de0598767a71ec9eab248",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x938a07acae24706044711433f64ba4e2d7929494",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9366c04d91131f56bf5ca9207ad81a3ba662714c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xde33da0ac4101460977f6823c355b0f4f4fdb5db",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3f46b1220524301bb64e57026a29bf9d8798e0f3",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe4be6930a4dd4d062cbfb061b73b622e1072df17",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xd46c536a67648bf3de29d89e444a2d80c6056aa0",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3e73247fe787bf3c1ece205117e533f7bc55cfbc",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0c60bc6a65ed8d63cbb50b876983b8807a89ed4b",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1eab615b9fd8b8ef3215cba3e82ca59e4e44ca45",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x553dc59c2a9b87e202f41cdcaa81d967c7213a3f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0cc6353b6da3aeceb752cee0d7b976002fde5653",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x9523b949a2f3364dbb3429ff3352035db61f3a9c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x136589523c3d4b718853d89a11d999df640a250c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xeb2f9f07a021616ecb207f9e2a7aa5b0fef0abf1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x37a7bc78a4cfff6ea3842e2359ae3847782688d5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5e5a8c7892da083a86177442b730aa4882bf81e1",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xb27dce3130b39e2b7377c61fc16465bb7646691c",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x14d43a9eba976cbced6a98cc41713e213e850694",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3bf65517f66bd39a7924449d0ccc4f15da9c06a2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x0865e1d516f8d7c7812e6d1c03fca68ff5c21209",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf7ddbfa0c117ba90da26bb1ce2262b632f665bcd",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdd3d3402ff7ee6e3d3bc1d87559f6eb6baad0886",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x59cffea3e11937e6a59426f293f585e9b3591809",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x2911b4032960032e33b42ec8b050bf82d8e99fd2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x154e03aac78dcacd290af7f01c608a71373ad8e9",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x437d50e9cbd326b99cac0427997d15e02d76717d",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xe674d181f46ae6c16734548670abb73333a6e847",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xdb977a85f837b3a1ef9ff57fa3233fe9615ced66",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x1a34ca24ba989b784e48b1b17cd663e0cf178cc0",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xc7a60313b1519a54880334831430ab7196b2de29",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa8d6fab06e0bbb8e3a12689133ed5db4e37cdfbf",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x139d346a570e93e30d1b23539977961395e33bca",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x3ce8c5df3c0d333986df4605def598b4ace01e9f",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xa24681273b03b9b3afcd808f772a32e91f8c3d47",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x61c63c33363ab01708001bdf226f1a52a7fa28ac",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x44d91186003e0fa1e3229f50259f0f966dc4bea6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x72e923cb9c678742c71af48935c35389eeb263f2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf8cb43c5af2606d306e0215c2ebfd42d11337409",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x50cc58d2e6d47d53192d977837ddf23040fb72ee",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x15cb36d4116efba082ec0e51492d8aa0a29bbc2a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x44d91186003e0fa1e3229f50259f0f966dc4bea6",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x72e923cb9c678742c71af48935c35389eeb263f2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf8cb43c5af2606d306e0215c2ebfd42d11337409",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x50cc58d2e6d47d53192d977837ddf23040fb72ee",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x15cb36d4116efba082ec0e51492d8aa0a29bbc2a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x5635ce931589c7f35bb85a1e6d8a46aa0761a0b5",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x72e923cb9c678742c71af48935c35389eeb263f2",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0xf8cb43c5af2606d306e0215c2ebfd42d11337409",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x50cc58d2e6d47d53192d977837ddf23040fb72ee",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x15cb36d4116efba082ec0e51492d8aa0a29bbc2a",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x00ff9ff4ba4a5593485f7644f4093894baabfa73",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x03c8a8a791d1ecc9ef65ca8be07cad2f08fbaf30",
+      "txns": [],
+      "refundTotal": 0
+    },
+    {
+      "walletAddress": "0x7c2861fa99d797b6a43d0bdc03f4010321c06829",
+      "txns": [],
+      "refundTotal": 0
+    }
+  ],
+  "totalWalletsNotRefunded": 696,
+  "totalWalletsRefunded": 211,
+  "totalWallets": 907,
+  "duplicates": [
+    "0xccd50d27a261a24c9c9933527443acde4ef1ff64",
+    "0x7f3c0adfc372d3cf7b636464f889416d875d56c4"
+  ]
+}
