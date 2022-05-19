@@ -1,4 +1,3 @@
-import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
 import Table from '@mui/material/Table';
 import TableBody from '@mui/material/TableBody';
@@ -9,9 +8,12 @@ import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
 import InputBase from '@mui/material/InputBase';
 import IconButton from '@mui/material/IconButton';
-import SearchIcon from '@mui/icons-material/Search';
+import Chip from '@mui/material/Chip';
 
 import Alert from '@mui/material/Alert';
+
+import SearchIcon from '@mui/icons-material/Search';
+import ReportIcon from '@mui/icons-material/Report';
 
 import data from './data.json';
 import { useState } from 'react';
@@ -50,6 +52,7 @@ function App() {
             <TableRow>
               <TableCell>Wallet Address</TableCell>
               <TableCell align="right">Refund Total (MATIC)</TableCell>
+              <TableCell align="right">Duplicate</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
@@ -59,6 +62,11 @@ function App() {
                   <a href={`https://polygonscan.com/address/${row.walletAddress}`}>{row.walletAddress}</a>
                 </TableCell>
                 <TableCell align="right">{row.refundTotal}</TableCell>
+                <TableCell align="right">
+                  {data.duplicates.indexOf(row.walletAddress) > -1 ? (
+                    <Chip color="error" size="small" icon={<ReportIcon />} label="Duplicate" />
+                  ) : undefined}
+                </TableCell>
               </TableRow>
             ))}
           </TableBody>
